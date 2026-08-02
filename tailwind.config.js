@@ -22,17 +22,17 @@ export default {
           950: '#111b54',
         },
         slate: {
-          300: '#FFFFFF', // Primary Text (Pure White)
-          400: '#A1A1AA', // Secondary Text (Zinc Muted Text)
-          500: '#A1A1AA', // Secondary Text (Zinc Muted Text)
-          600: '#71717A', // Darker Zinc
+          300: '#F9FAFB', // Primary Text (Crisp Off-White)
+          400: '#9CA3AF', // Secondary Text (Muted Gray)
+          500: '#9CA3AF', // Secondary Text (Muted Gray)
+          600: '#6B7280', 
         },
-        darkBg: '#050505', // Pure Deep Dark
+        darkBg: '#0B0F17', // Deep Navy-Black
         lightBg: '#fafafa',
-        darkCard: 'rgba(255, 255, 255, 0.04)', // Semi-transparent frost
+        darkCard: 'rgba(17, 24, 39, 0.75)', // Dark Slate Gray container
         lightCard: 'rgba(255, 255, 255, 0.65)',
-        accentPurple: '#EC4899', // Secondary Accent (Soft Magenta)
-        accentBlue: '#8B5CF6', // Primary Accent (Vibrant Purple / Violet)
+        accentPurple: '#06B6D4', // Secondary Accent (Cyan)
+        accentBlue: '#3B82F6', // Primary Accent (Electric Blue)
       },
       fontFamily: {
         sans: ['Outfit', 'Inter', 'sans-serif'],
