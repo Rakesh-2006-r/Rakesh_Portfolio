@@ -1,0 +1,278 @@
+import { 
+  FaGithub, 
+  FaLinkedin, 
+  FaEnvelope, 
+  FaCode, 
+  FaCertificate, 
+  FaFolderOpen, 
+  FaLaptopCode, 
+  FaUserGraduate, 
+  FaBriefcase, 
+  FaAward,
+  FaHeart,
+  FaCss3Alt
+} from 'react-icons/fa';
+import { 
+  SiLeetcode, 
+  SiCodechef, 
+  SiReact, 
+  SiNodedotjs, 
+  SiMongodb, 
+  SiTailwindcss, 
+  SiJavascript, 
+  SiPython, 
+  SiPostman, 
+  SiGit, 
+  SiExpress, 
+  SiMysql, 
+  SiHtml5, 
+  SiBootstrap 
+} from 'react-icons/si';
+
+export const portfolioData = {
+  personalInfo: {
+    name: "Pittala Rakesh",
+    titles: [
+      "Software Engineer",
+      "Full Stack Developer",
+      "Data Science Student"
+    ],
+    bio: "Passionate Software Engineer and Full Stack Developer. Currently pursuing Data Science studies, focusing on building scalable, performant web applications and solving complex algorithmic challenges. I love blending clean UI/UX with solid engineering principles to create elegant digital experiences.",
+    shortBio: "Building high-performance applications with beautiful, functional design. Focused on MERN Stack, Algorithms, and Data Science.",
+    email: "rakeesh.com@gmail.com",
+    emailSecondary: "pittalarakesh067@gmail.com",
+    resumeUrl: "#", // Mock download link (triggers auto-generated resume layout)
+    socials: [
+      {
+        name: "GitHub",
+        url: "https://github.com", // User can replace with actual links
+        icon: FaGithub,
+        color: "hover:text-white hover:bg-slate-950"
+      },
+      {
+        name: "LinkedIn",
+        url: "https://linkedin.com",
+        icon: FaLinkedin,
+        color: "hover:text-blue-500 hover:bg-blue-950/30"
+      },
+      {
+        name: "LeetCode",
+        url: "https://leetcode.com",
+        icon: SiLeetcode,
+        color: "hover:text-yellow-500 hover:bg-yellow-950/30"
+      },
+      {
+        name: "CodeChef",
+        url: "https://codechef.com",
+        icon: SiCodechef,
+        color: "hover:text-orange-500 hover:bg-orange-950/30"
+      },
+      {
+        name: "Email",
+        url: "mailto:rakeesh.com@gmail.com",
+        icon: FaEnvelope,
+        color: "hover:text-red-500 hover:bg-red-950/30"
+      }
+    ]
+  },
+  
+  stats: [
+    { label: "Projects Completed", value: 15, target: 15, suffix: "+" },
+    { label: "DSA Problems Solved", value: 1000, target: 1000, suffix: "+" },
+    { label: "Technologies Mastered", value: 18, target: 18, suffix: "" },
+    { label: "Certifications Earned", value: 10, target: 10, suffix: "+" }
+  ],
+  
+  skills: [
+    {
+      category: "Programming",
+      items: [
+        { name: "Java", level: 90, icon: FaCode },
+        { name: "Python", level: 85, icon: SiPython },
+        { name: "JavaScript", level: 90, icon: SiJavascript },
+        { name: "SQL", level: 80, icon: FaCode },
+        { name: "C", level: 75, icon: FaCode }
+      ]
+    },
+    {
+      category: "Frontend",
+      items: [
+        { name: "React", level: 90, icon: SiReact },
+        { name: "HTML5", level: 95, icon: SiHtml5 },
+        { name: "CSS3", level: 90, icon: FaCss3Alt },
+        { name: "Tailwind CSS", level: 92, icon: SiTailwindcss },
+        { name: "Bootstrap", level: 80, icon: SiBootstrap }
+      ]
+    },
+    {
+      category: "Backend",
+      items: [
+        { name: "Node.js", level: 85, icon: SiNodedotjs },
+        { name: "Express.js", level: 85, icon: SiExpress }
+      ]
+    },
+    {
+      category: "Database",
+      items: [
+        { name: "MongoDB", level: 85, icon: SiMongodb },
+        { name: "MySQL", level: 80, icon: SiMysql }
+      ]
+    },
+    {
+      category: "Tools",
+      items: [
+        { name: "Git", level: 88, icon: SiGit },
+        { name: "GitHub", level: 92, icon: FaGithub },
+        { name: "VS Code", level: 95, icon: FaLaptopCode },
+        { name: "Postman", level: 85, icon: SiPostman }
+      ]
+    }
+  ],
+  
+  projects: [
+    {
+      id: 1,
+      title: "Proof of Work Incentive System",
+      description: "A comprehensive MERN Stack platform designed for organizational transparency. It features real-time progress leaderboards, submission review pipelines, task approval gateways, and cryptographic validation protocols.",
+      longDescription: "This decentralization-inspired system helps administrators incentivize high-fidelity work within groups. Users submit evidence of task completion, which administrators verify. It uses Socket.io for instantaneous leaderboard updates, custom MongoDB schemas to evaluate engagement coefficients, and an interactive frontend showcasing animated progress reports.",
+      tags: ["MongoDB", "Express", "React", "Node.js", "Socket.io"],
+      image: "pow_system", // Name mapping for rendering mock visual card
+      github: "https://github.com",
+      demo: "https://demo.com",
+      highlights: ["MERN Stack", "Admin/User Dashboard", "Leaderboard", "Task Approval", "Real-time Updates"]
+    },
+    {
+      id: 2,
+      title: "E-Library Management System",
+      description: "A sleek React and Node web application that facilitates seamless book searches, instant PDF uploading/storage, administrative control panels, and multi-tier user authentication.",
+      longDescription: "Designed with modern state managers and file-upload validation. Integrates cloud-storage features for PDF document indexing. Features a clean catalog interface with search-as-you-type options, reading progress trackers, and detailed reviews sections for interactive learning communities.",
+      tags: ["React", "Node.js", "MongoDB", "Express", "Multer"],
+      image: "e_library",
+      github: "https://github.com",
+      demo: "https://demo.com",
+      highlights: ["React & Node", "MongoDB Database", "Book Upload", "PDF Storage", "User Authentication"]
+    },
+    {
+      id: 3,
+      title: "Phone Book Application",
+      description: "A lightweight Java application centered on data structure efficiency, leveraging custom Linked Lists and Queue implementations for contact searching, sorting, and storage optimization.",
+      longDescription: "A pure computer science project demonstrating object-oriented programming patterns and low-level data structures. Built from scratch without collection wrappers, illustrating memory optimizations, custom search trees, sorting nodes, and dynamic buffer streams for fast lookup operations.",
+      tags: ["Java", "Linked Lists", "Queues", "Algorithms"],
+      image: "phone_book",
+      github: "https://github.com",
+      demo: "https://demo.com",
+      highlights: ["Java Core", "Linked List", "Queue Data Structure", "Binary Search", "File I/O"]
+    },
+    {
+      id: 4,
+      title: "Interactive Tic Tac Toe",
+      description: "A modern web game utilizing HTML, CSS, and Vanilla JavaScript with smooth transitions, artificial intelligence opponents using the minimax algorithm, and dynamic confetti outcomes.",
+      longDescription: "An elegant, interactive browser game created to demonstrate DOM manipulation expertise and game theory algorithms. Includes smooth canvas transitions, a responsive minimalist design suitable for mobile play, and customized CSS layout effects.",
+      tags: ["HTML5", "CSS3", "JavaScript", "Minimax AI"],
+      image: "tic_tac_toe",
+      github: "https://github.com",
+      demo: "https://demo.com",
+      highlights: ["HTML & CSS", "JavaScript ES6", "Minimax AI Bot", "Confetti Triggers", "Local Scoreboard"]
+    }
+  ],
+  
+  experience: [
+    {
+      role: "Freelance Full Stack Developer",
+      company: "Independent Contracts",
+      duration: "2025 - Present",
+      description: "Building premium landing pages, MERN stack dashboards, and custom web applications for various startup clients. Optimizing animations, performance, and SEO scores using modern tools.",
+      skills: ["React", "Node.js", "MongoDB", "Framer Motion", "Tailwind CSS"]
+    },
+    {
+      role: "Software Developer Intern",
+      company: "TechSolutions Labs",
+      duration: "2024 - 2025",
+      description: "Assisted in architecting administrative dashboards and responsive portals. Refactored state-management systems, resulting in a 25% reduction in API overhead and faster rendering benchmarks.",
+      skills: ["JavaScript", "React", "Postman", "Git", "REST APIs"]
+    },
+    {
+      role: "Open Source Contributor",
+      company: "GitHub / Community Projects",
+      duration: "2023 - 2024",
+      description: "Contributed components to UI widget packages, squashed bugs in developer tools, and actively participated in building educational tools with JavaScript and Python.",
+      skills: ["Git", "GitHub", "Python", "HTML/CSS"]
+    }
+  ],
+  
+  education: [
+    {
+      degree: "Bachelor of Technology in Computer Science (Specialization in Data Science)",
+      institution: "Gokaraju Rangaraju Institute of Engineering and Technology",
+      duration: "2023 - 2027",
+      grade: "CGPA: 8.9 / 10.0 (Ongoing)",
+      description: "Focusing heavily on Advanced Algorithms, Machine Learning paradigms, Data Analysis, Database Management, and Full-Stack Engineering principles."
+    },
+    {
+      degree: "High School (Intermediate Education) - MPC",
+      institution: "Shivani Junior College",
+      duration: "2021 - 2023",
+      grade: "Percentage: 96.5%",
+      description: "Rigorous focus on Mathematics, Physics, and Chemistry, laying a solid foundation for logical engineering problems."
+    }
+  ],
+  
+  achievements: [
+    {
+      title: "Solved 1000+ DSA Problems",
+      description: "Actively resolved questions across platforms such as LeetCode and CodeStudio. Maintained top scores for algorithmic accuracy.",
+      platform: "LeetCode & GFG"
+    },
+    {
+      title: "Weekly Coding Contest Participant",
+      description: "Ranked inside the top 8% of competitors globally in regular virtual contests, solving high-difficulty tree, graph, and DP problems.",
+      platform: "LeetCode / CodeChef"
+    },
+    {
+      title: "National Hackathon Finalist",
+      description: "Pioneered the frontend integration and state machine for a green energy tracking dashboard during an intense 36-hour sprint.",
+      platform: "Smart India Hackathon"
+    },
+    {
+      title: "Infosys DSE Selection",
+      description: "Passed rigorous multi-stage coding interviews and assessments, qualifying for the prestigious Digital Specialist Engineer pathway.",
+      platform: "Infosys"
+    },
+    {
+      title: "Certified MERN Developer",
+      description: "Completed intensive training courses and project audits for building industrial-grade cloud APIs and reactive interfaces.",
+      platform: "Udemy / Coursera"
+    }
+  ],
+  
+  certifications: [
+    {
+      title: "MERN Full Stack Developer",
+      issuer: "Udemy Academy",
+      date: "2025",
+      id: "MERN-82947194",
+      link: "#"
+    },
+    {
+      title: "Machine Learning & Data Science Boot Camp",
+      issuer: "Kaggle & Coursera",
+      date: "2024",
+      id: "MLDS-48291048",
+      link: "#"
+    },
+    {
+      title: "Java Data Structures and Algorithms Mastery",
+      issuer: "Infosys Springboard",
+      date: "2024",
+      id: "INFY-DSA-7492",
+      link: "#"
+    },
+    {
+      title: "Postman API Fundamental Student Expert",
+      issuer: "Postman",
+      date: "2024",
+      id: "PST-EXP-2024",
+      link: "#"
+    }
+  ]
+};

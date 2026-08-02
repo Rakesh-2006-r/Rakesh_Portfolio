@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrendPredict | ML YouTube Analytics</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v=4">
+</head>
+<body>
+    <div class="background-orbs">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <div class="container">
+        <header>
+            <h1>Trend<span>Predict</span></h1>
+            <p>Predictive Maintenance & YouTube Trending Video Statistics using Machine Learning</p>
+        </header>
+
+        <main class="dashboard">
+            <section class="card form-section glass">
+                <h2>Video Parameters</h2>
+                <form id="prediction-form">
+                    <div class="input-group">
+                        <label for="video_age_days">Video Age (Days)</label>
+                        <input type="number" id="video_age_days" name="video_age_days" value="5" min="0" required>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="title_len">Title Length (Characters)</label>
+                        <input type="number" id="title_len" name="title_len" value="50" min="1" required>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="title_word_count">Title Word Count</label>
+                        <input type="number" id="title_word_count" name="title_word_count" value="8" min="1" required>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="tag_count">Number of Tags</label>
+                        <input type="number" id="tag_count" name="tag_count" value="10" min="0" required>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="category_id">Category</label>
+                        <select id="category_id" name="category_id">
+                            <option value="1">Film & Animation (1)</option>
+                            <option value="2">Autos & Vehicles (2)</option>
+                            <option value="10" selected>Music (10)</option>
+                            <option value="15">Pets & Animals (15)</option>
+                            <option value="17">Sports (17)</option>
+                            <option value="20">Gaming (20)</option>
+                            <option value="22">People & Blogs (22)</option>
+                            <option value="23">Comedy (23)</option>
+                            <option value="24">Entertainment (24)</option>
+                            <option value="25">News & Politics (25)</option>
+                            <option value="26">Howto & Style (26)</option>
+                            <option value="27">Education (27)</option>
+                            <option value="28">Science & Technology (28)</option>
+                        </select>
+                    </div>
+
+                    <button type="submit" class="btn-glow">Predict Engagement</button>
+                </form>
+            </section>
+
+            <section class="results-section">
+                <div class="card result-card glass" id="result-box">
+                    <div class="loader" id="loader" style="display: none;"></div>
+                    <div id="result-content">
+                        <h3>Awaiting Input</h3>
+                        <p>Enter the video details and click predict to see if it will hit high engagement!</p>
+                    </div>
+                    <div id="gauge-chart" style="width: 100%; height: 200px; display: none;"></div>
+                </div>
+
+                <div class="card charts-card glass">
+                    <h2>Model Visualizations</h2>
+                    <div class="charts-gallery">
+                        <div class="chart-item">
+                            <p>Dynamic ROC Curve</p>
+                            <div id="roc-chart" class="chart-container"></div>
+                        </div>
+                        <div class="chart-item">
+                            <p>Dynamic Confusion Matrix</p>
+                            <div id="cm-chart" class="chart-container"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}?v=5"></script>
+</body>
+</html>

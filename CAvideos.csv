@@ -1,0 +1,501 @@
+video_id,trending_date,title,channel_title,category_id,publish_time,tags,views,likes,dislikes,comment_count,thumbnail_link,comments_disabled,ratings_disabled,video_error_or_removed
+vid_0,23.06.05,tutorial best tutorial best review video daily make tutorial tutorial,Channel 14,1,2023-04-13T00:00:00.000Z,make|how|how|make|how|new|vlog,892798,24266,335,3496,http://example.com,False,False,False
+vid_1,23.17.12,best to daily best vlog awesome best make daily vlog awesome,Channel 28,8,2023-12-15T00:00:00.000Z,,5331,44443,335,3917,http://example.com,False,False,False
+vid_2,23.15.10,vlog how daily tutorial vlog video,Channel 11,8,2023-09-28T00:00:00.000Z,how|video|make,518400,11324,980,4842,http://example.com,False,False,False
+vid_3,23.15.05,make video new new awesome tutorial,Channel 39,6,2023-04-17T00:00:00.000Z,best|review,184258,662,921,2484,http://example.com,False,False,False
+vid_4,23.09.04,vlog to make how daily video review new review make to vlog,Channel 25,12,2023-03-13T00:00:00.000Z,how|to|new|tutorial,832080,16192,888,1854,http://example.com,False,False,False
+vid_5,23.28.07,to make to,Channel 21,5,2023-07-08T00:00:00.000Z,make|awesome|best|best|awesome|vlog,291693,41590,739,3439,http://example.com,False,False,False
+vid_6,23.14.02,make best how review new best vlog best,Channel 10,8,2023-01-21T00:00:00.000Z,video|to|review|how|best,213854,36568,146,3231,http://example.com,False,False,False
+vid_7,23.25.04,tutorial new to how new,Channel 43,3,2023-04-13T00:00:00.000Z,review|review|awesome|to|tutorial|awesome|tutorial,551049,15669,121,2597,http://example.com,False,False,False
+vid_8,23.20.05,video how review how make make awesome new,Channel 15,3,2023-05-02T00:00:00.000Z,best|new|review|how|tutorial,790694,34423,80,3983,http://example.com,False,False,False
+vid_9,23.06.08,tutorial vlog video review new daily tutorial to,Channel 19,2,2023-08-03T00:00:00.000Z,vlog|make|vlog|make,505840,10445,684,2191,http://example.com,False,False,False
+vid_10,23.25.12,daily make how tutorial how awesome how awesome,Channel 48,5,2023-11-27T00:00:00.000Z,to,969763,28077,665,2635,http://example.com,False,False,False
+vid_11,23.30.03,awesome daily make to review how review tutorial awesome make video new daily to,Channel 22,3,2023-03-29T00:00:00.000Z,new|best|awesome|how|best|review|best|make,860004,22268,661,656,http://example.com,False,False,True
+vid_12,23.11.04,daily video new video how awesome to vlog awesome,Channel 21,3,2023-04-10T00:00:00.000Z,review|make|daily|tutorial|how|tutorial|awesome,781080,28297,374,3812,http://example.com,False,False,False
+vid_13,24.24.01,review new make best tutorial awesome to video to new review,Channel 44,6,2023-12-26T00:00:00.000Z,to|awesome|awesome|video|how|make|new|tutorial|awesome,185544,3698,569,3340,http://example.com,False,False,False
+vid_14,23.20.06,video tutorial tutorial awesome new make new review vlog to tutorial,Channel 32,8,2023-06-01T00:00:00.000Z,tutorial|to,351002,7699,62,3911,http://example.com,False,False,False
+vid_15,23.22.05,to to tutorial review daily how vlog,Channel 23,2,2023-05-11T00:00:00.000Z,how|vlog|best,85667,1389,503,1796,http://example.com,False,False,False
+vid_16,23.04.06,vlog video new new best new tutorial make awesome best awesome vlog,Channel 13,4,2023-05-30T00:00:00.000Z,tutorial|make|tutorial,5677,37021,667,4363,http://example.com,False,False,False
+vid_17,23.17.11,awesome best video,Channel 5,11,2023-11-05T00:00:00.000Z,review|review|vlog|make|how,205580,43015,448,1762,http://example.com,False,False,False
+vid_18,23.18.09,new new tutorial best tutorial make make,Channel 4,7,2023-09-15T00:00:00.000Z,make|review|tutorial|new,131334,27634,427,4472,http://example.com,False,False,False
+vid_19,23.11.12,best tutorial new daily how,Channel 28,1,2023-12-10T00:00:00.000Z,new|daily|daily,475081,25974,867,3285,http://example.com,False,False,False
+vid_20,23.22.10,how best review,Channel 14,1,2023-10-21T00:00:00.000Z,daily|best,496784,22901,426,1585,http://example.com,False,False,False
+vid_21,23.19.07,make vlog awesome to review best,Channel 8,12,2023-07-11T00:00:00.000Z,how|new|tutorial|best|tutorial|best|review|daily,364581,49108,420,3563,http://example.com,False,False,False
+vid_22,23.14.10,how make video,Channel 9,13,2023-10-04T00:00:00.000Z,review|review|make|video|review|tutorial|make|how|make,969121,38389,321,2440,http://example.com,True,False,False
+vid_23,23.21.06,to review daily awesome make make how new how new new to,Channel 35,10,2023-06-10T00:00:00.000Z,,412811,12526,912,4584,http://example.com,True,False,False
+vid_24,23.22.11,video review tutorial tutorial how how,Channel 37,7,2023-11-10T00:00:00.000Z,awesome|tutorial|new|new|review|how|make|new|best,481675,13896,679,4817,http://example.com,False,False,False
+vid_25,23.20.02,review review to how review daily new make make new best daily,Channel 21,14,2023-01-22T00:00:00.000Z,how|vlog|daily|make|review|tutorial,585436,20317,165,3100,http://example.com,False,False,False
+vid_26,23.23.09,daily new video vlog awesome new review how how to new to new,Channel 18,7,2023-09-10T00:00:00.000Z,to|to|new|vlog,834358,24853,596,3244,http://example.com,False,False,False
+vid_27,23.05.09,awesome daily vlog make tutorial new vlog make review best awesome to,Channel 33,1,2023-08-24T00:00:00.000Z,make|make|vlog|how|make|how|review|awesome,600559,46494,956,1040,http://example.com,False,False,False
+vid_28,23.25.12,daily how make best vlog awesome make,Channel 8,1,2023-12-11T00:00:00.000Z,daily|review|make|vlog|best|best,559745,5922,648,3127,http://example.com,False,False,False
+vid_29,23.20.02,tutorial new to vlog to vlog daily how vlog,Channel 49,4,2023-02-18T00:00:00.000Z,review,567819,21524,460,2273,http://example.com,False,False,False
+vid_30,23.29.03,daily vlog tutorial how vlog daily review,Channel 17,5,2023-02-28T00:00:00.000Z,daily|vlog|make|tutorial|awesome|how|tutorial|awesome,205335,21833,458,3629,http://example.com,False,False,False
+vid_31,23.08.07,video best video review video review awesome review,Channel 43,5,2023-06-19T00:00:00.000Z,how|new,467516,28807,188,2114,http://example.com,False,False,False
+vid_32,23.25.07,review tutorial make new vlog best how make to new awesome awesome review,Channel 31,4,2023-07-07T00:00:00.000Z,tutorial|make|daily|review|to|make|how|daily,653315,6459,463,1677,http://example.com,False,False,False
+vid_33,23.01.10,daily video to awesome best awesome how vlog,Channel 34,8,2023-09-28T00:00:00.000Z,best|vlog|daily|best|make,195243,1735,911,3094,http://example.com,False,False,False
+vid_34,23.01.08,how make make,Channel 6,7,2023-07-09T00:00:00.000Z,,513445,15880,378,998,http://example.com,False,False,False
+vid_35,23.11.07,new awesome best awesome best tutorial review new tutorial awesome new tutorial video awesome,Channel 22,9,2023-06-24T00:00:00.000Z,awesome,258231,9314,1,2284,http://example.com,True,False,False
+vid_36,23.18.03,video video make awesome video,Channel 14,7,2023-02-20T00:00:00.000Z,daily|daily|vlog|best|video|make|review|how,774589,7532,617,1589,http://example.com,False,False,False
+vid_37,24.07.01,tutorial how awesome new best best tutorial daily,Channel 3,10,2023-12-30T00:00:00.000Z,,571059,13673,363,1161,http://example.com,False,False,False
+vid_38,23.25.03,tutorial video awesome best best video best new awesome vlog best tutorial,Channel 12,1,2023-02-24T00:00:00.000Z,,618423,4794,71,2520,http://example.com,False,False,False
+vid_39,23.27.09,best review new make vlog to tutorial tutorial awesome new,Channel 36,13,2023-09-01T00:00:00.000Z,video|how|awesome|how,591642,9482,426,3855,http://example.com,False,False,False
+vid_40,23.26.11,tutorial new new review,Channel 12,14,2023-11-16T00:00:00.000Z,daily|how|awesome|best|video,638031,28962,637,4648,http://example.com,False,False,False
+vid_41,23.06.06,how to make to best video,Channel 45,7,2023-05-11T00:00:00.000Z,tutorial|new|new|tutorial|how|video|how|review,769741,10065,169,694,http://example.com,False,False,False
+vid_42,23.05.11,daily best awesome best to tutorial tutorial how video,Channel 2,1,2023-11-03T00:00:00.000Z,video|tutorial|review|review|how|to|awesome|best,955793,29518,204,4412,http://example.com,False,False,False
+vid_43,23.03.06,awesome to how review,Channel 2,7,2023-05-15T00:00:00.000Z,best|vlog|how|make|review|video|how|video|daily,559180,12686,824,4863,http://example.com,False,False,False
+vid_44,23.30.01,video tutorial best best how to to make vlog video to tutorial,Channel 15,10,2023-01-21T00:00:00.000Z,best|awesome|daily|daily,203268,25202,336,3798,http://example.com,False,False,False
+vid_45,23.02.12,daily make new awesome daily new,Channel 23,8,2023-11-25T00:00:00.000Z,daily|make|make|new|new|make,917094,24732,998,3683,http://example.com,True,False,False
+vid_46,23.20.06,best awesome video tutorial awesome vlog new video vlog best vlog make make,Channel 29,11,2023-06-16T00:00:00.000Z,to|video,96057,7456,471,1971,http://example.com,False,False,False
+vid_47,23.27.10,how daily daily video best to review make video to daily how vlog,Channel 17,9,2023-10-01T00:00:00.000Z,vlog|daily|awesome|daily,39409,4735,194,1503,http://example.com,True,False,False
+vid_48,23.20.04,video awesome to vlog make daily best to,Channel 32,12,2023-03-30T00:00:00.000Z,make|review|best|vlog,247889,20071,669,3249,http://example.com,False,False,False
+vid_49,23.30.11,make to review vlog make review new video vlog to best daily,Channel 7,3,2023-11-12T00:00:00.000Z,to|best|awesome|review|to,428686,47547,652,4218,http://example.com,False,False,False
+vid_50,23.27.01,daily to daily,Channel 30,4,2023-01-14T00:00:00.000Z,how,150457,22681,274,3242,http://example.com,False,False,False
+vid_51,23.10.09,make review awesome tutorial,Channel 28,4,2023-08-30T00:00:00.000Z,to|make|video|tutorial|best|review,417512,1419,6,1868,http://example.com,False,False,False
+vid_52,23.21.10,how tutorial daily to review new review,Channel 14,12,2023-09-22T00:00:00.000Z,make,905998,8215,904,1671,http://example.com,False,False,False
+vid_53,24.05.01,awesome review best new tutorial make,Channel 44,9,2023-12-12T00:00:00.000Z,daily|awesome|review|daily,324860,16375,978,1082,http://example.com,False,False,False
+vid_54,23.26.02,best new make make,Channel 30,13,2023-02-22T00:00:00.000Z,review|video|how,876584,266,565,1728,http://example.com,False,False,False
+vid_55,23.31.12,new awesome daily how how tutorial tutorial,Channel 17,7,2023-12-06T00:00:00.000Z,,27382,15714,615,3851,http://example.com,False,False,False
+vid_56,23.23.04,review awesome review review video vlog,Channel 32,3,2023-04-02T00:00:00.000Z,new,77675,29912,853,2142,http://example.com,False,False,False
+vid_57,23.20.10,video to vlog vlog new awesome awesome vlog review new daily vlog,Channel 46,10,2023-09-21T00:00:00.000Z,video|make|daily|vlog|best,547707,35768,849,1148,http://example.com,False,False,False
+vid_58,23.01.03,tutorial tutorial video to tutorial make video tutorial to,Channel 6,5,2023-02-04T00:00:00.000Z,to|best|review|best|tutorial|best|awesome|vlog,82238,1205,572,253,http://example.com,False,False,False
+vid_59,23.29.07,review review awesome awesome daily vlog best awesome new tutorial new to awesome best,Channel 24,7,2023-07-25T00:00:00.000Z,make|to|best|to|daily|to|review|daily|review,226825,34022,598,4102,http://example.com,False,False,False
+vid_60,23.01.04,make make new vlog video vlog review,Channel 6,8,2023-03-22T00:00:00.000Z,daily|best|review|tutorial|tutorial|daily,695651,11425,769,3542,http://example.com,False,False,False
+vid_61,23.24.02,vlog daily daily best awesome best daily to make daily best to,Channel 27,1,2023-02-19T00:00:00.000Z,make|make,275541,39544,177,2775,http://example.com,False,False,False
+vid_62,24.04.01,vlog tutorial new video review best video how best,Channel 18,12,2023-12-26T00:00:00.000Z,tutorial|new,321032,21696,241,4637,http://example.com,False,False,False
+vid_63,23.26.01,video review daily best awesome,Channel 24,2,2023-01-02T00:00:00.000Z,best|daily|how|how|tutorial|to|tutorial,36169,11672,202,3333,http://example.com,False,False,False
+vid_64,23.26.02,tutorial video tutorial to review new daily best best best,Channel 37,7,2023-02-23T00:00:00.000Z,best|tutorial|vlog|to|vlog|best|best,587470,48988,542,4184,http://example.com,False,False,False
+vid_65,23.03.05,awesome how make vlog video awesome daily video best tutorial,Channel 24,11,2023-04-16T00:00:00.000Z,video|vlog|make|new|awesome,879908,28753,800,3279,http://example.com,False,False,False
+vid_66,23.20.09,video review best video tutorial review best how awesome to vlog new,Channel 38,13,2023-09-17T00:00:00.000Z,awesome|daily|review|new,829681,32171,461,4308,http://example.com,False,False,False
+vid_67,23.22.11,vlog daily vlog best how to awesome awesome tutorial new video how video to,Channel 34,14,2023-11-06T00:00:00.000Z,awesome|vlog|video|vlog|awesome|daily|vlog,160413,43091,79,2881,http://example.com,False,False,False
+vid_68,23.14.07,awesome to vlog awesome vlog new how review daily to to,Channel 40,13,2023-07-10T00:00:00.000Z,vlog|best|review,863035,2412,522,265,http://example.com,False,False,False
+vid_69,23.24.08,make best new new review video vlog best how how review new how,Channel 47,2,2023-08-06T00:00:00.000Z,to|review|vlog|video|review,178216,49658,416,2340,http://example.com,True,False,False
+vid_70,23.02.03,to tutorial daily review video vlog daily vlog,Channel 15,7,2023-02-13T00:00:00.000Z,review,455988,13285,765,3148,http://example.com,False,False,False
+vid_71,23.18.06,daily tutorial new,Channel 11,9,2023-06-11T00:00:00.000Z,tutorial|new|review|vlog|new|how|awesome|how,80360,28192,383,3359,http://example.com,False,False,False
+vid_72,23.14.08,to to make best awesome vlog tutorial how,Channel 22,11,2023-07-21T00:00:00.000Z,video|tutorial|daily|new|make|new|best|to,538732,14925,390,1004,http://example.com,False,False,False
+vid_73,23.20.10,awesome review daily tutorial video video awesome new tutorial tutorial make new,Channel 24,2,2023-09-27T00:00:00.000Z,how|make|video|video|video|daily|best|video,439863,919,895,2094,http://example.com,False,False,False
+vid_74,23.22.12,vlog how to video review vlog new tutorial review vlog tutorial,Channel 1,7,2023-12-17T00:00:00.000Z,vlog,124662,48584,798,4717,http://example.com,False,False,False
+vid_75,23.12.11,video daily vlog new vlog to review review video new make,Channel 18,4,2023-10-31T00:00:00.000Z,review|tutorial|tutorial|best|to|daily,770776,382,687,3271,http://example.com,False,False,False
+vid_76,23.15.10,review to daily video make to to awesome video new,Channel 44,11,2023-09-28T00:00:00.000Z,new|vlog|awesome|tutorial|review,99843,22630,125,4522,http://example.com,True,False,False
+vid_77,23.26.08,daily tutorial new new video,Channel 12,13,2023-08-03T00:00:00.000Z,make|best|new|make|tutorial|video,798406,34122,493,209,http://example.com,False,False,False
+vid_78,23.22.09,review awesome make new tutorial new awesome review review vlog,Channel 43,2,2023-09-09T00:00:00.000Z,review|awesome|tutorial|review|how|awesome,637438,8525,46,887,http://example.com,True,False,False
+vid_79,23.01.08,vlog to daily how review make best to review daily vlog tutorial best,Channel 28,13,2023-07-09T00:00:00.000Z,daily|tutorial|video|tutorial,432599,2441,717,153,http://example.com,False,False,False
+vid_80,23.17.11,daily review to best video how video best video review awesome vlog,Channel 40,7,2023-10-23T00:00:00.000Z,make|best|make|make|tutorial|new|best,781908,21064,475,3593,http://example.com,False,False,False
+vid_81,23.04.08,new video new,Channel 7,13,2023-08-01T00:00:00.000Z,make|to|daily|new|to|vlog,620114,32634,948,414,http://example.com,False,False,False
+vid_82,23.05.08,make tutorial best daily vlog,Channel 23,5,2023-07-27T00:00:00.000Z,awesome|make|best|tutorial|best|review|review|best,475768,10595,618,3424,http://example.com,False,False,False
+vid_83,23.11.09,to make how how,Channel 21,1,2023-08-25T00:00:00.000Z,best,885080,48240,463,1284,http://example.com,False,False,False
+vid_84,23.21.12,video how review awesome make awesome,Channel 34,5,2023-12-04T00:00:00.000Z,,226121,31968,786,3148,http://example.com,True,False,False
+vid_85,23.14.03,make awesome make daily new review video video how review tutorial how,Channel 11,12,2023-02-22T00:00:00.000Z,vlog|best|best|review,921460,1705,848,768,http://example.com,False,False,False
+vid_86,23.23.10,best review awesome make tutorial review daily best daily video video how awesome tutorial,Channel 22,12,2023-10-07T00:00:00.000Z,new,926581,34685,122,982,http://example.com,False,False,False
+vid_87,23.30.08,best best review how video how make review review tutorial awesome,Channel 42,3,2023-08-05T00:00:00.000Z,new|tutorial,823922,49942,473,3202,http://example.com,False,False,False
+vid_88,23.01.10,new to to review how make tutorial vlog to tutorial review awesome daily make,Channel 35,7,2023-09-09T00:00:00.000Z,best|video|how|review|make|review|vlog|to|vlog,766723,33797,133,4674,http://example.com,False,False,False
+vid_89,23.20.07,tutorial awesome vlog new,Channel 29,6,2023-07-07T00:00:00.000Z,daily|new|awesome|best,650001,44235,618,3526,http://example.com,False,False,False
+vid_90,23.09.03,video review new vlog awesome to new review video how best tutorial to new,Channel 42,8,2023-02-10T00:00:00.000Z,to|make|to,56612,1413,816,2787,http://example.com,False,False,False
+vid_91,23.25.06,daily tutorial how vlog best awesome how how vlog make vlog make make to,Channel 28,13,2023-06-06T00:00:00.000Z,,625762,17820,840,2210,http://example.com,False,False,False
+vid_92,23.01.02,video new new review awesome new to,Channel 18,5,2023-01-15T00:00:00.000Z,video|vlog|daily|video|vlog|make|review|vlog,299303,8865,561,1038,http://example.com,False,False,False
+vid_93,23.01.11,video make review vlog,Channel 14,2,2023-10-28T00:00:00.000Z,make|review|video|new|tutorial,564998,38646,848,3932,http://example.com,False,False,False
+vid_94,23.18.03,make vlog new,Channel 18,9,2023-03-06T00:00:00.000Z,to|tutorial|awesome|new|tutorial|video,932310,10849,606,541,http://example.com,False,False,False
+vid_95,24.09.01,make tutorial new vlog awesome vlog make make how awesome daily new video,Channel 28,14,2023-12-11T00:00:00.000Z,,638384,20,779,358,http://example.com,True,True,False
+vid_96,23.02.12,awesome video awesome awesome vlog awesome how daily make best video make best daily,Channel 24,11,2023-11-23T00:00:00.000Z,new|tutorial|awesome,210417,39108,22,849,http://example.com,False,False,False
+vid_97,23.28.01,video video daily best awesome new review tutorial review make vlog make,Channel 8,8,2023-01-09T00:00:00.000Z,vlog|awesome|review,212463,47839,565,4522,http://example.com,False,False,False
+vid_98,23.22.12,best vlog video new new video how review best review how,Channel 42,6,2023-12-10T00:00:00.000Z,vlog,894844,9240,885,2544,http://example.com,False,True,False
+vid_99,23.18.05,make daily make daily tutorial vlog,Channel 45,13,2023-05-09T00:00:00.000Z,tutorial,620212,40242,765,4581,http://example.com,False,True,False
+vid_100,23.23.05,daily review video make best vlog tutorial daily tutorial best how new best to,Channel 8,10,2023-05-16T00:00:00.000Z,tutorial|vlog|make|tutorial|vlog|awesome,269602,47524,964,1831,http://example.com,False,False,True
+vid_101,23.01.04,tutorial video make video tutorial make to new vlog,Channel 4,7,2023-03-04T00:00:00.000Z,tutorial|awesome|video|new|best|video|video|vlog|make,918425,35781,234,1472,http://example.com,False,False,False
+vid_102,23.02.06,tutorial daily tutorial tutorial make awesome best awesome to daily new how to,Channel 27,9,2023-05-19T00:00:00.000Z,daily|make|vlog|review,298668,29266,995,1436,http://example.com,False,False,False
+vid_103,23.11.04,how new video awesome tutorial vlog,Channel 36,7,2023-03-22T00:00:00.000Z,daily|daily|vlog|how|video|new,663213,25661,58,329,http://example.com,False,True,False
+vid_104,23.01.07,daily to video how video video,Channel 5,3,2023-06-12T00:00:00.000Z,vlog|how|new,303621,32393,163,4354,http://example.com,False,False,False
+vid_105,23.11.11,make best daily tutorial tutorial daily,Channel 33,6,2023-10-16T00:00:00.000Z,vlog|daily|how|awesome|tutorial|vlog|how|to,295366,39973,770,4238,http://example.com,False,False,False
+vid_106,23.03.10,tutorial video new to awesome tutorial daily new,Channel 49,11,2023-09-18T00:00:00.000Z,to|how|video|video|how|daily,543608,13672,825,4008,http://example.com,False,False,False
+vid_107,23.04.09,best daily video best to to,Channel 34,13,2023-08-19T00:00:00.000Z,vlog|new|tutorial|vlog|to|review|tutorial|to|daily,95154,13749,215,4722,http://example.com,False,False,False
+vid_108,23.03.03,vlog make new best vlog how video best,Channel 30,11,2023-02-10T00:00:00.000Z,new|to|daily,577531,48366,182,1388,http://example.com,False,False,False
+vid_109,23.02.02,awesome review vlog vlog video tutorial to to,Channel 8,7,2023-01-28T00:00:00.000Z,vlog|how|best|video|make|new|best,701975,1799,568,4185,http://example.com,False,False,False
+vid_110,23.18.05,new new how,Channel 39,2,2023-05-15T00:00:00.000Z,new|best|to|best|daily|tutorial,411568,19430,656,719,http://example.com,True,False,False
+vid_111,23.01.08,review daily tutorial make daily daily vlog awesome to,Channel 47,3,2023-07-20T00:00:00.000Z,best|vlog|video|how,598121,23771,934,3235,http://example.com,False,False,False
+vid_112,23.19.12,new review awesome vlog make how,Channel 26,4,2023-11-24T00:00:00.000Z,awesome|video|vlog|daily|best|daily,94476,40376,89,4576,http://example.com,False,False,False
+vid_113,23.15.10,vlog review to to to awesome awesome new new make review how video video,Channel 37,10,2023-09-25T00:00:00.000Z,make|tutorial|daily|tutorial|video|review,115560,37616,963,2131,http://example.com,False,False,False
+vid_114,23.01.03,to how daily awesome best tutorial make to to review to,Channel 34,6,2023-02-02T00:00:00.000Z,how|to|tutorial|make|review,921707,38650,310,1100,http://example.com,False,False,False
+vid_115,23.10.03,awesome tutorial daily,Channel 7,1,2023-02-17T00:00:00.000Z,new|vlog,302411,44145,556,672,http://example.com,True,False,False
+vid_116,23.07.03,to video new review review video,Channel 40,9,2023-03-03T00:00:00.000Z,vlog|best|tutorial,563229,37077,971,516,http://example.com,False,False,False
+vid_117,23.25.08,video vlog best new review video best make how best how,Channel 28,5,2023-08-04T00:00:00.000Z,awesome|tutorial|make|how|best|tutorial,870241,17367,256,2532,http://example.com,False,False,False
+vid_118,23.12.11,daily best new video,Channel 39,13,2023-10-20T00:00:00.000Z,,550656,39861,532,3670,http://example.com,False,False,False
+vid_119,23.25.04,awesome best new make to make video,Channel 39,12,2023-04-09T00:00:00.000Z,make|new|tutorial|new|video|how|tutorial|daily,864618,38272,978,781,http://example.com,False,False,False
+vid_120,23.16.07,best best daily,Channel 28,14,2023-06-21T00:00:00.000Z,,294128,11327,532,3523,http://example.com,True,False,False
+vid_121,24.02.01,daily video video awesome daily new new awesome review new vlog how awesome,Channel 14,7,2023-12-26T00:00:00.000Z,review|daily|video|how|vlog|make,436157,21544,51,3558,http://example.com,False,False,False
+vid_122,23.15.08,tutorial to to,Channel 38,9,2023-08-02T00:00:00.000Z,video|best|make|vlog|best|awesome|new,204990,25744,337,2386,http://example.com,False,False,False
+vid_123,23.25.02,daily video video make vlog awesome vlog vlog vlog to vlog,Channel 4,9,2023-02-04T00:00:00.000Z,tutorial|video|tutorial|review|make|tutorial|daily|to|make,446899,35907,170,4782,http://example.com,False,False,False
+vid_124,23.25.08,how video make how make tutorial make video video vlog best tutorial review,Channel 42,1,2023-08-15T00:00:00.000Z,best|review|new|tutorial|how|make|review,258481,32882,947,1589,http://example.com,False,False,False
+vid_125,23.07.05,new make best,Channel 18,1,2023-04-11T00:00:00.000Z,vlog|awesome|new|new|make|how,1801,40211,66,4995,http://example.com,False,False,False
+vid_126,23.18.05,to awesome daily best to tutorial vlog awesome awesome awesome tutorial,Channel 44,3,2023-05-11T00:00:00.000Z,review|tutorial,631826,7699,624,1501,http://example.com,False,False,False
+vid_127,23.28.09,make daily review tutorial new daily video vlog tutorial to daily new video make,Channel 48,6,2023-09-14T00:00:00.000Z,new|best|review|awesome|review,899633,3577,299,3794,http://example.com,True,False,False
+vid_128,23.31.01,to daily vlog to video to how review best make video review review to,Channel 25,2,2023-01-05T00:00:00.000Z,best|best|vlog|review|review,835397,20742,671,4318,http://example.com,False,False,False
+vid_129,23.11.08,review best to vlog how review tutorial how to,Channel 7,10,2023-08-06T00:00:00.000Z,to|awesome|video|how|to|vlog|review|awesome|tutorial,610557,20784,777,3080,http://example.com,False,False,False
+vid_130,23.15.09,tutorial video how to how review tutorial new,Channel 38,12,2023-09-12T00:00:00.000Z,tutorial|how|tutorial|how,779053,23205,831,1076,http://example.com,True,False,False
+vid_131,24.17.01,how video video awesome how daily vlog review best daily best best,Channel 28,11,2023-12-25T00:00:00.000Z,,928473,37422,231,1100,http://example.com,False,False,False
+vid_132,23.08.11,awesome daily daily new how how how make best make,Channel 5,1,2023-10-10T00:00:00.000Z,how|best|video|video|make|video|make,299113,47744,974,502,http://example.com,False,False,False
+vid_133,23.06.08,new daily review,Channel 3,1,2023-07-26T00:00:00.000Z,how,476485,44108,836,1339,http://example.com,False,False,False
+vid_134,23.26.01,make make to make vlog daily vlog daily new,Channel 44,13,2023-01-15T00:00:00.000Z,new|tutorial|vlog|video|new|new,950953,22267,67,3885,http://example.com,False,False,False
+vid_135,23.30.12,vlog daily new new awesome daily review to how video new tutorial,Channel 31,5,2023-12-12T00:00:00.000Z,awesome|awesome|video,92679,4404,505,623,http://example.com,False,False,False
+vid_136,23.26.02,best daily vlog video tutorial how,Channel 47,4,2023-02-11T00:00:00.000Z,video|video|make|best|best|vlog|make|new,682065,36312,27,1886,http://example.com,True,False,False
+vid_137,23.10.07,awesome best video to awesome tutorial video awesome best to awesome make,Channel 42,1,2023-06-28T00:00:00.000Z,video|awesome|to|vlog|new,716663,22238,948,3350,http://example.com,False,False,False
+vid_138,23.13.03,tutorial best review daily vlog vlog vlog,Channel 20,4,2023-03-04T00:00:00.000Z,to|to|make,291507,12398,627,1050,http://example.com,False,False,False
+vid_139,23.28.12,tutorial best to video,Channel 19,3,2023-12-18T00:00:00.000Z,to|video,162792,11329,50,3772,http://example.com,False,False,False
+vid_140,23.14.09,daily make best vlog awesome,Channel 48,2,2023-08-19T00:00:00.000Z,awesome|review|awesome|daily|best|video|how|to|best,928476,6485,692,3916,http://example.com,False,False,False
+vid_141,23.10.09,best new tutorial how daily make daily best how new to awesome how,Channel 11,9,2023-08-29T00:00:00.000Z,make,558639,31565,259,4018,http://example.com,False,False,False
+vid_142,23.10.03,vlog new awesome review make,Channel 40,14,2023-02-21T00:00:00.000Z,,636311,18168,590,1329,http://example.com,False,False,False
+vid_143,23.05.05,best how awesome video to review to new make new video,Channel 3,11,2023-04-06T00:00:00.000Z,vlog|to|to|how|tutorial|vlog,692505,14738,784,4114,http://example.com,True,False,False
+vid_144,23.16.08,make daily tutorial make make,Channel 23,1,2023-08-10T00:00:00.000Z,new|vlog|to|daily,613236,44784,619,3367,http://example.com,False,False,False
+vid_145,23.26.08,best video make awesome,Channel 7,7,2023-08-19T00:00:00.000Z,video|vlog|review|how|make|make|make|video,745974,29555,962,3951,http://example.com,False,False,False
+vid_146,23.08.09,video best how new make,Channel 23,14,2023-08-25T00:00:00.000Z,make|review|awesome|video|best|awesome,220188,31110,585,2497,http://example.com,False,False,False
+vid_147,23.05.06,daily how to vlog best daily vlog best awesome new how tutorial best tutorial,Channel 7,13,2023-05-23T00:00:00.000Z,,843667,16160,686,1573,http://example.com,False,False,False
+vid_148,23.28.06,make to how new new awesome vlog to how make,Channel 46,4,2023-06-20T00:00:00.000Z,,277999,33224,183,2634,http://example.com,False,False,False
+vid_149,23.08.02,video new best awesome to make how video,Channel 34,5,2023-01-29T00:00:00.000Z,how|how|video|review|review|review|awesome,430385,32886,22,2768,http://example.com,False,False,False
+vid_150,23.14.02,awesome best video video vlog to,Channel 42,10,2023-02-05T00:00:00.000Z,vlog|best|how|make|video|best|video|daily|new,262677,3249,785,1211,http://example.com,False,False,False
+vid_151,23.31.01,review vlog vlog awesome,Channel 19,5,2023-01-13T00:00:00.000Z,awesome|new|video|make|awesome|to|review,178476,38709,128,775,http://example.com,False,False,False
+vid_152,23.06.07,tutorial how best daily how video best make tutorial make review make to,Channel 9,1,2023-06-09T00:00:00.000Z,daily|awesome|video|best|make|tutorial,151641,36831,290,1160,http://example.com,False,False,False
+vid_153,23.19.12,daily awesome daily make video tutorial,Channel 48,6,2023-11-23T00:00:00.000Z,video|daily|how|tutorial|best|new|video|daily|best,650362,30625,831,2383,http://example.com,False,False,False
+vid_154,23.08.07,daily make tutorial best how vlog to tutorial video review,Channel 18,13,2023-07-06T00:00:00.000Z,make|make|daily|awesome|how|awesome|how,785366,13756,500,2654,http://example.com,False,False,False
+vid_155,23.05.09,tutorial video how video,Channel 41,9,2023-08-31T00:00:00.000Z,review,579725,20931,185,3540,http://example.com,False,False,False
+vid_156,23.25.04,vlog video vlog make awesome how awesome make how tutorial tutorial vlog,Channel 48,2,2023-03-27T00:00:00.000Z,daily|vlog|review|daily,967010,22755,478,4697,http://example.com,False,False,False
+vid_157,23.16.10,vlog to video new to video how vlog,Channel 45,7,2023-10-11T00:00:00.000Z,new|tutorial,157810,1255,570,4635,http://example.com,False,False,False
+vid_158,23.13.03,how video make review video best,Channel 42,6,2023-03-07T00:00:00.000Z,how|new|review|make|new,925276,46617,491,1095,http://example.com,False,False,False
+vid_159,23.08.07,tutorial to tutorial video daily,Channel 25,5,2023-06-19T00:00:00.000Z,,91410,24863,512,23,http://example.com,False,False,False
+vid_160,23.22.02,video review video new vlog best tutorial vlog tutorial to vlog,Channel 14,4,2023-02-14T00:00:00.000Z,awesome|awesome|new|best|tutorial,20731,27642,642,4719,http://example.com,False,False,False
+vid_161,23.19.03,tutorial best awesome how how best new awesome to best how how how make,Channel 44,4,2023-03-03T00:00:00.000Z,vlog|best|tutorial|make|review,666491,12866,66,3556,http://example.com,False,False,False
+vid_162,23.27.05,video to how tutorial best review make best to,Channel 25,6,2023-05-14T00:00:00.000Z,tutorial|vlog|daily,853756,5115,804,1079,http://example.com,False,False,False
+vid_163,23.12.10,to best video review to make make to,Channel 19,4,2023-10-11T00:00:00.000Z,awesome,186169,35700,466,4318,http://example.com,False,False,False
+vid_164,23.19.02,best daily new best to awesome to daily video to to video,Channel 39,5,2023-01-28T00:00:00.000Z,best,869152,2523,284,178,http://example.com,False,False,False
+vid_165,23.08.05,how awesome tutorial awesome review to how,Channel 15,13,2023-04-18T00:00:00.000Z,awesome|make|best|vlog|new|make|tutorial|new|best,883865,2811,600,2847,http://example.com,False,False,False
+vid_166,23.02.03,to daily how video how video new tutorial vlog,Channel 16,6,2023-02-13T00:00:00.000Z,vlog|video,266033,32355,416,1960,http://example.com,True,False,False
+vid_167,23.13.12,make daily to daily awesome vlog,Channel 27,5,2023-12-06T00:00:00.000Z,video|awesome,534857,13905,99,1473,http://example.com,False,False,False
+vid_168,23.07.11,new vlog vlog,Channel 40,7,2023-10-13T00:00:00.000Z,to|make|to,874625,39759,188,4888,http://example.com,False,False,False
+vid_169,23.10.12,video awesome daily,Channel 10,9,2023-11-27T00:00:00.000Z,,207749,8231,988,4979,http://example.com,False,False,False
+vid_170,23.12.05,daily new to review,Channel 4,10,2023-05-08T00:00:00.000Z,awesome|review,86192,6048,889,1212,http://example.com,True,False,False
+vid_171,23.18.12,video new review make new awesome awesome best new,Channel 19,7,2023-12-14T00:00:00.000Z,to|review|make|new,780117,32041,857,809,http://example.com,False,False,False
+vid_172,23.25.08,to awesome best to new,Channel 28,7,2023-08-19T00:00:00.000Z,awesome|how|daily|review|awesome|vlog|review|best|best,88154,15092,387,419,http://example.com,False,False,False
+vid_173,23.06.08,vlog best review awesome tutorial new tutorial new awesome to,Channel 21,4,2023-07-09T00:00:00.000Z,best|video|how|best,209542,14658,240,3659,http://example.com,False,False,False
+vid_174,23.01.09,to new daily how review how,Channel 47,1,2023-08-13T00:00:00.000Z,video|daily,109073,374,781,3816,http://example.com,False,False,False
+vid_175,23.08.11,best tutorial tutorial review daily,Channel 14,14,2023-10-10T00:00:00.000Z,awesome,220894,34578,730,1278,http://example.com,False,False,False
+vid_176,23.13.05,to make new daily make awesome new,Channel 33,8,2023-05-01T00:00:00.000Z,make|make|vlog|how,520235,14120,416,2523,http://example.com,False,False,False
+vid_177,23.18.05,vlog vlog video video tutorial awesome how how vlog vlog,Channel 48,4,2023-04-26T00:00:00.000Z,,795044,5968,917,1440,http://example.com,False,False,False
+vid_178,23.28.08,daily best video daily to how review new video make to,Channel 10,1,2023-08-21T00:00:00.000Z,to|daily|make|tutorial|video,576932,9106,175,1340,http://example.com,False,False,False
+vid_179,23.13.10,video review daily awesome new video best vlog vlog new review daily vlog video,Channel 19,5,2023-09-16T00:00:00.000Z,awesome|best|best|daily|best,557357,7446,386,2221,http://example.com,False,True,False
+vid_180,24.04.01,how how to tutorial awesome new to tutorial,Channel 30,14,2023-12-25T00:00:00.000Z,awesome|how|best|review|vlog|to|video|best|daily,869173,21187,470,2392,http://example.com,False,False,False
+vid_181,23.12.08,best best awesome vlog video to to new new best best review,Channel 22,14,2023-07-17T00:00:00.000Z,,421547,26764,852,1361,http://example.com,False,False,False
+vid_182,23.05.06,make review vlog make video video to how,Channel 3,8,2023-05-17T00:00:00.000Z,make|best|daily|tutorial|tutorial|best,843329,24554,232,591,http://example.com,False,False,False
+vid_183,23.21.11,video tutorial best new make review to awesome new tutorial make tutorial best,Channel 37,4,2023-11-14T00:00:00.000Z,awesome,146006,12648,662,526,http://example.com,False,False,False
+vid_184,23.17.06,vlog to new daily daily new awesome to tutorial,Channel 41,13,2023-06-14T00:00:00.000Z,vlog|best|best|tutorial|daily|video|review|best,404311,189,451,2503,http://example.com,False,False,False
+vid_185,23.26.08,how new tutorial,Channel 18,12,2023-08-13T00:00:00.000Z,awesome|how|make|best|daily|best|daily|video,485710,3883,276,1292,http://example.com,True,False,False
+vid_186,23.16.11,video review vlog daily to best review review video vlog vlog how,Channel 11,8,2023-11-03T00:00:00.000Z,to|awesome|awesome,889976,17580,228,1654,http://example.com,False,False,False
+vid_187,23.09.09,make daily daily daily make awesome,Channel 48,8,2023-08-22T00:00:00.000Z,tutorial|daily|tutorial|new|vlog|review|awesome|review|video,543994,48233,170,4906,http://example.com,False,False,False
+vid_188,23.19.07,video to vlog how review tutorial best make new tutorial to,Channel 2,3,2023-06-21T00:00:00.000Z,video|how|video|best|vlog|best|make|daily|awesome,175588,17167,734,187,http://example.com,False,False,False
+vid_189,23.27.06,how how how daily new make tutorial daily to make to make,Channel 12,9,2023-06-01T00:00:00.000Z,vlog|to|review|to|make|vlog|new|new|new,628890,45575,212,2758,http://example.com,False,False,False
+vid_190,23.01.12,best to daily make how vlog how awesome best best,Channel 6,3,2023-11-11T00:00:00.000Z,,491224,4470,281,528,http://example.com,False,False,False
+vid_191,23.07.07,tutorial new to daily best how,Channel 43,1,2023-06-09T00:00:00.000Z,,297773,48094,40,433,http://example.com,False,False,False
+vid_192,23.14.04,new new video video tutorial tutorial,Channel 40,2,2023-04-06T00:00:00.000Z,to|vlog|video|vlog|new|vlog|how,441126,362,121,3512,http://example.com,False,False,False
+vid_193,23.19.09,tutorial make new,Channel 44,6,2023-08-21T00:00:00.000Z,,482756,21596,226,1804,http://example.com,False,False,False
+vid_194,23.08.07,daily make to how tutorial how best awesome best awesome video how awesome review,Channel 29,12,2023-06-29T00:00:00.000Z,,125746,5354,293,302,http://example.com,False,False,False
+vid_195,23.30.04,review review vlog make awesome awesome make how how review make review best vlog,Channel 30,10,2023-04-23T00:00:00.000Z,video|new|daily|review,545719,4517,599,4182,http://example.com,False,False,False
+vid_196,23.15.11,to vlog how daily video tutorial review awesome make make awesome review,Channel 2,2,2023-11-14T00:00:00.000Z,to|video|best|new,188805,37608,266,437,http://example.com,False,False,False
+vid_197,23.24.02,to tutorial daily tutorial daily,Channel 9,6,2023-02-21T00:00:00.000Z,awesome|video|daily|how|to|video|awesome|vlog|awesome,565376,43998,540,2588,http://example.com,False,False,False
+vid_198,23.08.10,to to how awesome to,Channel 47,14,2023-09-25T00:00:00.000Z,video|review|how,700495,32895,758,832,http://example.com,False,False,False
+vid_199,23.19.11,to how make daily how best best video tutorial awesome new vlog,Channel 2,1,2023-10-22T00:00:00.000Z,new|review|vlog|review|to|best|tutorial,432231,16875,827,796,http://example.com,False,False,False
+vid_200,23.18.05,make vlog make vlog how new,Channel 29,11,2023-04-23T00:00:00.000Z,how|daily|vlog|daily|daily|awesome|video|to|tutorial,756398,37065,450,559,http://example.com,False,False,False
+vid_201,23.09.05,how to new daily make best tutorial best new daily make,Channel 33,13,2023-04-11T00:00:00.000Z,awesome,556673,27223,448,3588,http://example.com,False,False,False
+vid_202,23.10.05,vlog make vlog how new review how video daily review vlog to,Channel 10,1,2023-04-23T00:00:00.000Z,tutorial|awesome|awesome|awesome|new|tutorial|review|awesome|best,333343,4487,755,761,http://example.com,False,False,False
+vid_203,23.16.04,video awesome review best make video,Channel 34,5,2023-03-22T00:00:00.000Z,tutorial|new|how|how|to|make|best|how|new,301821,6543,60,3574,http://example.com,False,False,False
+vid_204,23.30.07,review how new best to daily daily new vlog to,Channel 44,10,2023-07-06T00:00:00.000Z,awesome|awesome|vlog|daily|make,119104,49405,501,3785,http://example.com,False,False,False
+vid_205,23.24.04,to video to tutorial best daily to new awesome tutorial tutorial vlog,Channel 8,13,2023-04-23T00:00:00.000Z,new|best|make|how|best|vlog|review|daily|daily,13818,23406,146,2514,http://example.com,False,False,False
+vid_206,23.08.01,vlog vlog awesome video to how daily,Channel 37,11,2023-01-02T00:00:00.000Z,awesome|daily|vlog|how|tutorial|how,482438,12765,685,684,http://example.com,False,False,False
+vid_207,23.31.05,best make best awesome awesome new video daily review vlog best,Channel 33,9,2023-05-10T00:00:00.000Z,daily|review|video,326145,875,944,4233,http://example.com,False,False,False
+vid_208,23.14.08,awesome awesome video make make video awesome daily,Channel 47,14,2023-08-08T00:00:00.000Z,,156049,11183,789,577,http://example.com,False,False,False
+vid_209,23.21.03,to video make vlog video daily video,Channel 6,8,2023-02-23T00:00:00.000Z,awesome|new|video|daily|to|how|new|video|daily,575120,38107,333,4805,http://example.com,False,False,False
+vid_210,23.21.12,best make new new make,Channel 44,3,2023-12-09T00:00:00.000Z,best|best|awesome|video|how|how|review|tutorial,828363,33381,880,227,http://example.com,False,False,False
+vid_211,23.25.08,review daily tutorial tutorial awesome best to how daily how how make new new,Channel 40,3,2023-08-12T00:00:00.000Z,new|video|how|tutorial|video|make,609278,38534,952,2328,http://example.com,False,False,False
+vid_212,23.26.08,make how review vlog new daily daily,Channel 45,1,2023-08-13T00:00:00.000Z,make|video|how,210966,11264,890,2731,http://example.com,False,False,False
+vid_213,23.04.06,video vlog new,Channel 19,14,2023-05-06T00:00:00.000Z,to|tutorial|new|best|tutorial,73204,4028,141,827,http://example.com,False,False,False
+vid_214,23.25.05,new awesome daily how tutorial,Channel 32,3,2023-05-10T00:00:00.000Z,how|review|to|review|to,46784,5202,43,430,http://example.com,False,False,False
+vid_215,23.15.03,best how best vlog review video review tutorial,Channel 27,14,2023-02-22T00:00:00.000Z,review|to|review|tutorial|daily|to,893737,2025,143,1063,http://example.com,False,False,False
+vid_216,23.07.07,tutorial review new daily new new vlog,Channel 1,12,2023-06-21T00:00:00.000Z,to|to|vlog|tutorial|make|awesome,10921,42628,864,1709,http://example.com,False,False,False
+vid_217,23.28.08,to to new best vlog new,Channel 43,12,2023-08-06T00:00:00.000Z,to|new|to|vlog|review|make|new|daily|new,822391,3390,332,1234,http://example.com,False,False,False
+vid_218,23.30.06,daily how make video,Channel 33,12,2023-06-09T00:00:00.000Z,best|best,819760,28353,997,301,http://example.com,False,True,False
+vid_219,23.28.07,tutorial tutorial review video review new make awesome awesome,Channel 40,13,2023-07-17T00:00:00.000Z,make|best|video|vlog|daily|daily|awesome|awesome|tutorial,927363,3780,496,1420,http://example.com,False,False,False
+vid_220,23.02.10,new to review to how make make tutorial vlog,Channel 32,11,2023-09-04T00:00:00.000Z,awesome|best,256564,5839,395,4628,http://example.com,False,False,False
+vid_221,23.25.11,review best awesome best to to video how make daily review best review to,Channel 5,1,2023-11-20T00:00:00.000Z,daily|video|daily,614794,34391,54,768,http://example.com,False,False,False
+vid_222,23.26.07,tutorial awesome how vlog how video daily to tutorial vlog how,Channel 17,8,2023-07-22T00:00:00.000Z,make|vlog|how|video,75408,45925,306,1404,http://example.com,False,False,False
+vid_223,23.06.07,video make tutorial vlog review video vlog to,Channel 8,1,2023-07-03T00:00:00.000Z,tutorial|video|awesome|daily,649140,15555,869,443,http://example.com,False,False,False
+vid_224,23.22.05,video make tutorial daily to new daily awesome to tutorial,Channel 42,5,2023-05-03T00:00:00.000Z,make,741126,18273,422,3104,http://example.com,False,False,False
+vid_225,23.02.10,video vlog tutorial video daily review,Channel 34,9,2023-09-12T00:00:00.000Z,tutorial|review|vlog|vlog|video|new|daily,551996,38150,416,4355,http://example.com,False,False,False
+vid_226,23.15.11,best make awesome to review review tutorial awesome how video video,Channel 9,7,2023-10-21T00:00:00.000Z,how|daily|to|how,544135,43316,672,3305,http://example.com,False,False,False
+vid_227,23.25.10,new new best make vlog,Channel 23,4,2023-10-07T00:00:00.000Z,how|daily|make|video|to|make|to,581277,25685,796,1538,http://example.com,False,False,False
+vid_228,23.06.12,awesome new best best tutorial how,Channel 35,11,2023-11-21T00:00:00.000Z,best,912815,25372,324,3930,http://example.com,False,False,False
+vid_229,23.17.04,vlog make to tutorial vlog to to how how awesome best vlog,Channel 7,9,2023-04-08T00:00:00.000Z,new|best|best,5922,158,709,1331,http://example.com,False,False,False
+vid_230,23.03.08,video tutorial awesome make review,Channel 15,9,2023-07-17T00:00:00.000Z,awesome|daily|make|make|make|make|daily|best,464144,1764,670,69,http://example.com,False,False,False
+vid_231,23.11.09,best review review video new make how to new tutorial tutorial review how,Channel 20,2,2023-08-28T00:00:00.000Z,make|awesome|tutorial|video|make|new|tutorial|daily|new,53335,26755,79,3435,http://example.com,True,False,False
+vid_232,23.08.06,vlog new new,Channel 25,10,2023-05-24T00:00:00.000Z,to|new|make|to|vlog|best|new,914345,7388,30,480,http://example.com,False,False,False
+vid_233,23.08.04,make best make vlog tutorial tutorial tutorial daily tutorial vlog how best,Channel 3,10,2023-04-07T00:00:00.000Z,,932045,46369,984,4094,http://example.com,True,False,False
+vid_234,23.10.08,review best vlog tutorial how new make to how new awesome,Channel 46,11,2023-07-20T00:00:00.000Z,new,806983,20150,111,3496,http://example.com,True,False,False
+vid_235,23.26.05,awesome new how vlog review to tutorial vlog review vlog how,Channel 24,12,2023-05-04T00:00:00.000Z,how|daily|review|daily|vlog|how|daily|daily,151453,9381,557,2793,http://example.com,False,False,False
+vid_236,23.28.07,how new video vlog make vlog new best awesome tutorial review video to,Channel 34,6,2023-07-06T00:00:00.000Z,vlog|review|best|video|vlog|how|new|best|best,900751,27009,864,2892,http://example.com,False,False,False
+vid_237,23.25.11,to how to tutorial awesome to vlog,Channel 46,4,2023-11-22T00:00:00.000Z,awesome|to|video|video|awesome|to|video,318817,12789,716,1198,http://example.com,False,True,False
+vid_238,23.31.12,how tutorial awesome video new awesome new best new make vlog,Channel 22,8,2023-12-15T00:00:00.000Z,tutorial|tutorial|video,888963,31085,563,2372,http://example.com,False,False,False
+vid_239,23.09.10,daily how make new to,Channel 11,12,2023-09-16T00:00:00.000Z,video|new|new|to|daily,23948,30707,649,1892,http://example.com,False,False,False
+vid_240,23.22.06,make how vlog tutorial how,Channel 48,11,2023-05-28T00:00:00.000Z,how|awesome|review|video|daily|daily,617552,9805,471,1883,http://example.com,True,False,False
+vid_241,23.20.09,best how make tutorial make video new video review,Channel 8,7,2023-09-09T00:00:00.000Z,awesome|new|vlog,60072,38470,73,797,http://example.com,False,False,False
+vid_242,23.24.12,vlog awesome new best make make make vlog video,Channel 39,7,2023-12-12T00:00:00.000Z,daily|tutorial|video,330704,4228,552,17,http://example.com,False,False,False
+vid_243,23.06.06,make daily review,Channel 43,11,2023-05-27T00:00:00.000Z,tutorial|daily|best|review,738609,37581,478,43,http://example.com,False,False,False
+vid_244,23.13.06,tutorial daily awesome vlog awesome tutorial new tutorial how new,Channel 35,10,2023-05-28T00:00:00.000Z,awesome|new|video|to|vlog,658846,11682,588,154,http://example.com,False,False,False
+vid_245,23.26.12,make awesome awesome,Channel 49,9,2023-12-18T00:00:00.000Z,video|vlog|to|daily|make|tutorial|tutorial,67691,31052,386,4962,http://example.com,False,False,False
+vid_246,23.24.07,review how awesome daily best to to awesome daily review,Channel 46,13,2023-07-18T00:00:00.000Z,new|review|daily|daily|video|review|video|to|make,666442,35960,698,3448,http://example.com,False,False,False
+vid_247,23.16.11,vlog vlog new to awesome vlog awesome new,Channel 38,5,2023-11-04T00:00:00.000Z,to,890213,11019,881,4838,http://example.com,False,False,False
+vid_248,23.01.06,tutorial review best best vlog best review,Channel 8,6,2023-05-08T00:00:00.000Z,daily|daily|new|best|new|vlog,347249,47106,563,4080,http://example.com,False,False,False
+vid_249,23.08.03,review awesome new tutorial new,Channel 37,1,2023-02-08T00:00:00.000Z,to|review|daily|how,8086,19554,929,1425,http://example.com,False,False,False
+vid_250,23.25.12,to awesome daily best daily to new vlog review best,Channel 27,6,2023-12-04T00:00:00.000Z,to|video|daily|new|best|new|tutorial|how,390962,29391,432,4320,http://example.com,False,False,False
+vid_251,24.03.01,awesome how video video video how awesome how video,Channel 28,2,2023-12-26T00:00:00.000Z,make|awesome|how|review,593141,25297,411,4312,http://example.com,False,False,False
+vid_252,23.04.06,tutorial new how awesome awesome daily tutorial,Channel 40,6,2023-05-09T00:00:00.000Z,to|best|to|awesome|review|best|new|best|review,365069,2596,466,3639,http://example.com,False,False,False
+vid_253,23.22.10,best video vlog daily video tutorial review daily video tutorial make,Channel 34,9,2023-09-24T00:00:00.000Z,new|to|daily,333171,2658,598,4126,http://example.com,False,False,False
+vid_254,23.04.06,vlog best tutorial how make review to video make tutorial new,Channel 32,8,2023-05-31T00:00:00.000Z,daily|to|awesome|vlog|to|make|how|make,279060,40091,620,1892,http://example.com,False,False,False
+vid_255,23.20.11,awesome vlog tutorial review,Channel 15,9,2023-10-25T00:00:00.000Z,tutorial|to|video|video|best|daily|daily,802680,18111,991,897,http://example.com,False,False,False
+vid_256,23.17.04,best daily to,Channel 44,13,2023-04-09T00:00:00.000Z,make|how|to|awesome|best|new|vlog|new|to,986551,45322,908,3424,http://example.com,False,False,False
+vid_257,23.16.10,awesome vlog best new vlog make to,Channel 17,10,2023-09-20T00:00:00.000Z,daily|review,811658,21702,736,4540,http://example.com,False,False,False
+vid_258,23.07.10,review video how tutorial best vlog to make,Channel 33,8,2023-09-09T00:00:00.000Z,make|to|tutorial|make|tutorial|daily|make|how,943529,7417,993,1258,http://example.com,False,False,False
+vid_259,23.11.06,video tutorial tutorial vlog best new review daily review vlog make how,Channel 47,3,2023-05-24T00:00:00.000Z,new,764210,17264,992,2015,http://example.com,False,True,False
+vid_260,24.09.01,awesome new best video new to best how to new awesome awesome how tutorial,Channel 46,8,2023-12-12T00:00:00.000Z,vlog|best|video,573668,15244,247,4833,http://example.com,False,False,False
+vid_261,23.20.05,video tutorial review review review awesome awesome make to new video how,Channel 16,6,2023-04-22T00:00:00.000Z,to|tutorial|vlog,795280,22221,580,1702,http://example.com,False,False,False
+vid_262,23.06.03,make awesome how awesome video to new new review tutorial,Channel 29,13,2023-03-01T00:00:00.000Z,video|review|tutorial|vlog,539562,29490,119,873,http://example.com,False,False,False
+vid_263,23.11.01,how daily review make review review daily tutorial video make review to daily,Channel 9,6,2023-01-02T00:00:00.000Z,video|vlog|how|vlog|video|daily,317689,47790,66,565,http://example.com,False,False,False
+vid_264,23.04.11,daily to daily to tutorial best make,Channel 33,6,2023-10-31T00:00:00.000Z,to|video|daily,785403,24856,572,2018,http://example.com,True,False,False
+vid_265,23.08.10,video vlog awesome review how awesome,Channel 49,3,2023-09-11T00:00:00.000Z,,97494,42513,955,1885,http://example.com,False,False,False
+vid_266,23.11.06,how to to vlog awesome video make to,Channel 29,10,2023-05-20T00:00:00.000Z,daily|awesome|review|review|new|tutorial,116981,46203,326,2123,http://example.com,False,False,False
+vid_267,23.23.02,best tutorial tutorial daily video tutorial daily awesome to to review best how,Channel 13,1,2023-02-06T00:00:00.000Z,make|best|daily|awesome|make|best|make|how|awesome,167305,48476,919,4642,http://example.com,False,False,False
+vid_268,23.18.06,awesome new tutorial video review,Channel 21,12,2023-06-09T00:00:00.000Z,how|best|best|video|awesome|new|new|best,17304,15331,702,2314,http://example.com,False,False,False
+vid_269,23.10.01,tutorial awesome tutorial video new make,Channel 21,14,2023-01-09T00:00:00.000Z,tutorial|review|video|best|new|awesome|daily,274438,12656,469,4412,http://example.com,False,False,False
+vid_270,23.11.09,new daily tutorial to best to new to awesome to how,Channel 5,4,2023-08-21T00:00:00.000Z,review|how|how|tutorial|make|awesome|make|video,289569,22127,492,3883,http://example.com,False,False,False
+vid_271,23.29.04,tutorial review to video review make make to,Channel 10,10,2023-04-09T00:00:00.000Z,video|best|awesome|best|to|new|how|daily,725071,4903,700,3192,http://example.com,False,False,False
+vid_272,23.09.06,review best to awesome new how vlog daily,Channel 6,12,2023-05-27T00:00:00.000Z,make|to|how|best|to|to,111777,9486,662,1859,http://example.com,False,False,False
+vid_273,23.28.11,make awesome tutorial tutorial daily how make best daily how make review awesome new,Channel 13,6,2023-10-31T00:00:00.000Z,,403641,17280,285,24,http://example.com,True,False,False
+vid_274,23.12.08,review review vlog tutorial video awesome tutorial to review,Channel 1,11,2023-07-27T00:00:00.000Z,to,616837,21712,955,3503,http://example.com,False,False,False
+vid_275,23.09.06,tutorial how best tutorial,Channel 20,12,2023-05-11T00:00:00.000Z,video|how,618752,4392,913,4255,http://example.com,False,False,False
+vid_276,23.14.06,new how awesome awesome awesome awesome new tutorial make tutorial review,Channel 47,10,2023-06-01T00:00:00.000Z,how|how|tutorial,963494,1795,607,1137,http://example.com,False,False,False
+vid_277,23.09.03,best video make make review tutorial make,Channel 46,2,2023-02-23T00:00:00.000Z,vlog|to|how|review|video|video,632036,45808,311,4995,http://example.com,False,False,False
+vid_278,23.03.05,daily to video vlog new tutorial new vlog tutorial tutorial video new,Channel 8,7,2023-04-30T00:00:00.000Z,best|daily|daily|vlog,467962,11745,308,1189,http://example.com,False,False,False
+vid_279,23.09.07,awesome new best best tutorial awesome how vlog to awesome to new,Channel 10,7,2023-06-10T00:00:00.000Z,to|daily|daily|daily|make|review,855727,30187,774,4798,http://example.com,False,False,False
+vid_280,23.02.05,to vlog awesome how tutorial video new best vlog video,Channel 9,11,2023-04-26T00:00:00.000Z,to|new,803523,30722,96,4096,http://example.com,False,False,False
+vid_281,23.03.04,make review tutorial new tutorial video,Channel 49,4,2023-03-16T00:00:00.000Z,,907375,16689,964,3157,http://example.com,False,False,False
+vid_282,23.12.05,review make video new awesome,Channel 41,4,2023-04-23T00:00:00.000Z,,255174,43023,112,2367,http://example.com,False,False,False
+vid_283,23.19.04,video daily make video video daily new video best,Channel 3,1,2023-04-14T00:00:00.000Z,to|to|awesome|vlog|awesome|to,656362,35375,987,4477,http://example.com,False,False,False
+vid_284,23.21.12,new best new best review,Channel 11,13,2023-12-06T00:00:00.000Z,vlog|how|new|make|review|tutorial|how|video|awesome,254890,17074,636,1741,http://example.com,False,False,False
+vid_285,23.06.10,best to best awesome awesome vlog to to,Channel 12,2,2023-09-11T00:00:00.000Z,awesome|review|awesome|how|daily|daily|make,575699,30573,455,3688,http://example.com,False,False,False
+vid_286,23.17.08,to tutorial vlog vlog make,Channel 10,9,2023-08-15T00:00:00.000Z,awesome|best|daily|review|to|new|best|how,435174,33102,462,3746,http://example.com,False,True,False
+vid_287,23.02.05,best best daily,Channel 25,10,2023-04-22T00:00:00.000Z,make|make|vlog,259901,47938,947,897,http://example.com,False,False,False
+vid_288,23.03.05,how new make how how video video how to new make how,Channel 49,8,2023-04-09T00:00:00.000Z,new|to|video|make,96696,26877,131,4023,http://example.com,False,False,False
+vid_289,23.20.06,best new video best video video new video review vlog awesome vlog awesome,Channel 49,8,2023-06-02T00:00:00.000Z,tutorial|awesome|awesome|tutorial|daily|to|tutorial|vlog,677067,45392,929,716,http://example.com,False,False,False
+vid_290,24.11.01,daily video make make awesome best new video new vlog make to,Channel 25,9,2023-12-15T00:00:00.000Z,tutorial|vlog|make|best|how|how|video,671608,33764,964,3967,http://example.com,False,False,False
+vid_291,23.17.12,vlog review vlog awesome review tutorial vlog review video how how video tutorial tutorial,Channel 11,7,2023-12-04T00:00:00.000Z,new|best|best|make,596597,19512,928,4021,http://example.com,False,False,False
+vid_292,23.18.07,make new tutorial,Channel 36,13,2023-07-13T00:00:00.000Z,to|awesome,734682,770,120,3215,http://example.com,False,False,False
+vid_293,23.29.11,awesome daily best daily awesome review vlog,Channel 39,9,2023-11-06T00:00:00.000Z,vlog|awesome|video|tutorial|tutorial|new,970224,24152,196,390,http://example.com,False,False,False
+vid_294,23.06.07,best daily best to to review to awesome new review,Channel 26,10,2023-06-12T00:00:00.000Z,make|daily|daily|review|how|vlog,671397,44663,805,3884,http://example.com,False,False,False
+vid_295,23.28.07,how vlog vlog,Channel 14,12,2023-07-27T00:00:00.000Z,,68421,42006,481,1699,http://example.com,False,False,False
+vid_296,23.10.07,how tutorial tutorial to daily awesome to,Channel 39,2,2023-06-18T00:00:00.000Z,how,237436,17300,633,3037,http://example.com,False,False,False
+vid_297,23.11.06,best vlog tutorial video tutorial vlog best vlog,Channel 40,6,2023-06-10T00:00:00.000Z,awesome|to,476083,5509,793,232,http://example.com,False,False,False
+vid_298,23.27.03,to how video vlog,Channel 1,3,2023-03-09T00:00:00.000Z,video|to|make|review|best|awesome,303756,374,896,1926,http://example.com,False,False,False
+vid_299,23.31.10,make review make new make awesome how best video vlog new,Channel 4,11,2023-10-16T00:00:00.000Z,how|new|how|make|vlog|to,482247,19807,771,3131,http://example.com,False,False,False
+vid_300,23.21.10,best how video tutorial make to new make make awesome,Channel 30,6,2023-10-04T00:00:00.000Z,new|vlog|how,538738,40805,38,3306,http://example.com,False,False,False
+vid_301,23.11.11,to review tutorial vlog awesome make,Channel 12,3,2023-10-31T00:00:00.000Z,new|to,10491,32545,565,2724,http://example.com,False,False,False
+vid_302,23.05.06,daily to to daily to make new video,Channel 35,8,2023-05-15T00:00:00.000Z,daily,118026,46310,511,4801,http://example.com,False,False,False
+vid_303,23.09.08,awesome how daily tutorial vlog tutorial make awesome,Channel 13,11,2023-07-14T00:00:00.000Z,tutorial|video|awesome|new|review|tutorial|best|awesome,75804,47186,473,233,http://example.com,False,False,False
+vid_304,23.02.06,make how new review vlog how daily daily make awesome how best awesome new,Channel 31,13,2023-05-08T00:00:00.000Z,,512662,16115,160,1391,http://example.com,False,True,False
+vid_305,23.24.02,daily review make to daily review vlog video to make best to vlog awesome,Channel 38,4,2023-02-02T00:00:00.000Z,new|tutorial|make|review|tutorial|how|awesome|to,880725,7949,288,2892,http://example.com,False,False,False
+vid_306,23.22.07,daily best how vlog review to how best how,Channel 43,12,2023-06-25T00:00:00.000Z,,644786,13946,199,1255,http://example.com,False,False,False
+vid_307,23.18.02,vlog review new awesome best,Channel 23,10,2023-01-22T00:00:00.000Z,,763803,42039,787,2538,http://example.com,False,False,False
+vid_308,23.12.09,new new make review how new tutorial vlog video video best,Channel 4,6,2023-08-26T00:00:00.000Z,review|review|best|make|video|review|video|review|best,925295,15873,527,3690,http://example.com,False,False,False
+vid_309,23.20.06,daily how daily new vlog best to new how video review make vlog awesome,Channel 16,9,2023-06-07T00:00:00.000Z,,892907,12571,916,889,http://example.com,False,False,False
+vid_310,23.08.02,daily best daily vlog daily vlog daily review tutorial review to new new,Channel 7,2,2023-02-07T00:00:00.000Z,new,815746,10457,684,4687,http://example.com,True,False,False
+vid_311,23.20.08,review review awesome awesome how make,Channel 22,2,2023-08-18T00:00:00.000Z,video|best|how|video|make,839315,30634,502,745,http://example.com,False,False,False
+vid_312,24.09.01,make vlog vlog video daily awesome video to how how,Channel 29,7,2023-12-31T00:00:00.000Z,review|vlog|new|tutorial|tutorial|video|to|how,488335,46950,247,1719,http://example.com,False,False,False
+vid_313,23.23.02,review new make awesome video make review video daily to to,Channel 11,2,2023-02-20T00:00:00.000Z,how|vlog|video|review|make|best,350230,44656,382,427,http://example.com,False,False,False
+vid_314,23.22.09,make make video daily tutorial make new review,Channel 33,2,2023-09-21T00:00:00.000Z,make|best|how,721989,12421,217,731,http://example.com,False,False,False
+vid_315,23.31.10,awesome awesome review video review make vlog how tutorial new review daily vlog review,Channel 29,4,2023-10-10T00:00:00.000Z,vlog|awesome|best|vlog|daily|to|video,364435,19475,86,799,http://example.com,False,False,False
+vid_316,23.12.02,vlog video tutorial best best make make,Channel 39,9,2023-01-27T00:00:00.000Z,make|best|video|video|daily|daily|awesome|how|best,243223,38226,81,4297,http://example.com,False,False,False
+vid_317,23.06.09,daily make how tutorial,Channel 12,8,2023-08-14T00:00:00.000Z,tutorial|review|best|best|best|video|make|video,535255,19652,61,835,http://example.com,False,False,False
+vid_318,23.10.10,video awesome review review to video video best new daily new how awesome,Channel 7,2,2023-10-04T00:00:00.000Z,daily|tutorial|video|make|video,213826,31272,798,134,http://example.com,False,False,False
+vid_319,23.10.11,best awesome review how new video make make vlog to daily how to,Channel 39,8,2023-10-13T00:00:00.000Z,video|tutorial|tutorial|make,306364,30373,499,2538,http://example.com,True,False,False
+vid_320,23.24.04,daily review to new daily new video best new review make to review vlog,Channel 42,4,2023-04-07T00:00:00.000Z,daily|tutorial|tutorial|awesome|best,730523,2117,41,3718,http://example.com,False,False,False
+vid_321,23.16.10,daily how vlog make new,Channel 48,2,2023-10-11T00:00:00.000Z,video|how|daily|best|new|awesome|how,923451,7938,11,40,http://example.com,False,False,False
+vid_322,23.18.11,review video tutorial awesome vlog best awesome tutorial how,Channel 26,11,2023-11-13T00:00:00.000Z,tutorial|to|daily|vlog|review,695779,48012,832,3367,http://example.com,False,False,False
+vid_323,23.06.11,to tutorial tutorial awesome best review,Channel 40,10,2023-10-31T00:00:00.000Z,to|new,319275,19327,745,2415,http://example.com,False,False,False
+vid_324,23.30.05,awesome video how how to review video how awesome video awesome daily,Channel 9,7,2023-05-27T00:00:00.000Z,how|new|review|tutorial|tutorial,482930,49088,840,2040,http://example.com,False,False,False
+vid_325,23.25.01,how how best daily review review vlog vlog to daily awesome awesome,Channel 41,6,2023-01-04T00:00:00.000Z,vlog|to|new,29876,25027,642,4339,http://example.com,False,False,False
+vid_326,23.27.02,video new vlog how to review new tutorial,Channel 34,14,2023-02-04T00:00:00.000Z,tutorial|new|vlog|new|how,744804,13538,114,2949,http://example.com,False,False,False
+vid_327,23.16.07,tutorial daily tutorial tutorial best best best,Channel 45,10,2023-07-11T00:00:00.000Z,awesome|how|new|awesome|tutorial,888880,13323,217,4261,http://example.com,True,False,False
+vid_328,23.11.03,new to to how best daily how video how new vlog tutorial,Channel 13,5,2023-02-18T00:00:00.000Z,,676331,1569,648,3466,http://example.com,False,False,True
+vid_329,23.22.01,vlog review how daily tutorial to awesome tutorial new,Channel 36,11,2023-01-17T00:00:00.000Z,video|vlog|how|video|how|review|review|daily,981043,15177,105,3088,http://example.com,False,False,False
+vid_330,23.01.07,new how video new new daily how tutorial video vlog awesome best to,Channel 25,1,2023-06-21T00:00:00.000Z,review|best|tutorial|tutorial|daily,230192,15353,690,4823,http://example.com,False,False,False
+vid_331,23.18.08,how best to to vlog vlog vlog make make to,Channel 24,2,2023-08-08T00:00:00.000Z,to|how|best|best|vlog|vlog|to,312372,38608,527,1115,http://example.com,False,False,False
+vid_332,23.26.06,daily new best best make to how tutorial tutorial make how,Channel 44,8,2023-06-07T00:00:00.000Z,daily|awesome|vlog|new|make|tutorial|tutorial,255767,7533,471,4578,http://example.com,False,False,False
+vid_333,23.04.03,make tutorial how vlog to best daily video to vlog review tutorial vlog review,Channel 17,1,2023-02-15T00:00:00.000Z,to|daily|review|best|to|new|daily,861927,49787,753,2590,http://example.com,False,False,False
+vid_334,23.27.01,how best new make to make to new,Channel 2,3,2023-01-06T00:00:00.000Z,how|video|tutorial|new|review|best|video|make|vlog,253313,28449,845,3573,http://example.com,False,False,False
+vid_335,23.23.04,review best daily,Channel 13,2,2023-04-09T00:00:00.000Z,vlog|video|video,29261,15534,892,2978,http://example.com,False,False,False
+vid_336,23.30.08,review video vlog awesome review daily make vlog awesome how how vlog,Channel 31,5,2023-08-21T00:00:00.000Z,best|best|awesome|review|make|best|review|make,107601,13295,386,2447,http://example.com,False,False,False
+vid_337,23.20.02,to to make awesome awesome vlog tutorial how awesome vlog new video new,Channel 29,4,2023-02-06T00:00:00.000Z,video|make|how|vlog|awesome,62260,10983,225,1230,http://example.com,False,False,False
+vid_338,23.08.10,review make awesome best daily best vlog awesome video,Channel 28,13,2023-10-07T00:00:00.000Z,to|awesome|how|awesome|make|video|to,499214,22704,480,2666,http://example.com,False,False,False
+vid_339,24.03.01,vlog vlog make make how how to tutorial awesome awesome best awesome awesome,Channel 27,7,2023-12-15T00:00:00.000Z,video|make|make|to|to|tutorial,475587,35784,753,4975,http://example.com,False,False,False
+vid_340,23.11.11,daily how how video awesome,Channel 15,5,2023-10-29T00:00:00.000Z,daily|review|video|best|awesome|make|make|tutorial|video,397562,4312,407,4925,http://example.com,False,False,False
+vid_341,23.13.07,review how tutorial new daily,Channel 31,8,2023-06-30T00:00:00.000Z,vlog,490170,22401,456,4854,http://example.com,False,False,False
+vid_342,23.09.04,video best how,Channel 40,4,2023-04-05T00:00:00.000Z,best|to|best|how,581464,4621,652,4258,http://example.com,False,False,False
+vid_343,23.10.04,review tutorial make vlog awesome awesome new tutorial to awesome,Channel 15,12,2023-04-09T00:00:00.000Z,review|daily|review|daily|best|daily|to,315444,9382,897,2594,http://example.com,False,False,False
+vid_344,23.24.07,review make new tutorial tutorial review review,Channel 33,6,2023-07-07T00:00:00.000Z,to|best|video|to|daily,143412,24322,710,3430,http://example.com,False,False,False
+vid_345,23.04.05,vlog how how best video new make tutorial vlog to new best,Channel 20,4,2023-04-26T00:00:00.000Z,vlog|make,518561,14090,623,2917,http://example.com,False,False,False
+vid_346,23.12.07,best tutorial video best tutorial tutorial video how new awesome,Channel 42,2,2023-07-10T00:00:00.000Z,tutorial|best|how|tutorial|new|how|review|awesome|make,820444,15092,638,2952,http://example.com,False,False,False
+vid_347,23.08.10,to review to,Channel 12,1,2023-09-10T00:00:00.000Z,review|review|awesome|to|best|make|video|review|how,691753,47419,20,1995,http://example.com,False,False,False
+vid_348,23.18.06,awesome make awesome to vlog to make new review awesome video vlog tutorial,Channel 37,14,2023-06-10T00:00:00.000Z,review,627441,42871,658,3891,http://example.com,False,False,False
+vid_349,23.20.09,to review video best how awesome how make,Channel 9,14,2023-09-13T00:00:00.000Z,,469349,30687,600,306,http://example.com,False,False,False
+vid_350,23.15.12,best best tutorial make new how new video daily,Channel 23,1,2023-11-19T00:00:00.000Z,tutorial|best,944061,20884,814,1362,http://example.com,False,False,False
+vid_351,23.03.06,vlog new daily daily awesome video make daily to vlog to,Channel 8,8,2023-05-08T00:00:00.000Z,,982708,8388,917,2102,http://example.com,False,False,False
+vid_352,23.20.01,daily how vlog awesome,Channel 32,14,2023-01-18T00:00:00.000Z,review|make|how|tutorial|tutorial|video|video|daily,860705,1607,202,3030,http://example.com,False,False,False
+vid_353,23.30.10,awesome best review tutorial daily video vlog tutorial video new daily make make,Channel 48,4,2023-10-08T00:00:00.000Z,vlog|video|video|make,899760,11610,416,332,http://example.com,False,False,False
+vid_354,23.02.09,review best best review make how review vlog make how tutorial how,Channel 14,5,2023-08-11T00:00:00.000Z,video|how|make|to|awesome|make|awesome|tutorial|daily,897736,3757,415,2752,http://example.com,False,False,False
+vid_355,23.26.02,video to video make tutorial,Channel 27,11,2023-02-23T00:00:00.000Z,daily|to|daily|make,369781,13889,447,242,http://example.com,False,False,False
+vid_356,23.26.03,review daily vlog awesome make vlog review how,Channel 25,8,2023-02-27T00:00:00.000Z,new|to|review|awesome|to|tutorial|how|new|best,673636,13027,511,1884,http://example.com,False,False,False
+vid_357,23.07.12,video how awesome tutorial daily vlog daily to review make tutorial to review,Channel 13,12,2023-11-19T00:00:00.000Z,video|make|review|make,317783,24825,84,1432,http://example.com,False,False,False
+vid_358,24.07.01,make how video vlog awesome awesome how best awesome vlog,Channel 21,7,2023-12-26T00:00:00.000Z,daily|review|make|vlog|review|new|new|awesome|to,385083,18974,166,2550,http://example.com,False,False,False
+vid_359,23.24.06,tutorial awesome daily how vlog daily,Channel 45,13,2023-06-23T00:00:00.000Z,make|to|new|tutorial|make|to,532598,28822,383,302,http://example.com,False,False,False
+vid_360,23.29.10,make awesome daily video review make video tutorial,Channel 31,8,2023-10-07T00:00:00.000Z,how|new|daily|video|vlog|vlog|daily,691527,40210,467,4330,http://example.com,False,False,False
+vid_361,23.06.05,review to vlog how review vlog,Channel 37,13,2023-04-24T00:00:00.000Z,make|how|how|make|to|make|best|best|vlog,366088,24724,71,3109,http://example.com,False,False,False
+vid_362,23.20.10,daily tutorial new awesome review vlog vlog daily video how new best awesome,Channel 48,8,2023-10-15T00:00:00.000Z,make|make|to|awesome|vlog|vlog|vlog,479096,18900,809,2186,http://example.com,False,False,False
+vid_363,24.04.01,best how awesome vlog to review video,Channel 43,6,2023-12-08T00:00:00.000Z,daily|tutorial|awesome|review|new|best|to,666751,4735,996,4290,http://example.com,False,False,False
+vid_364,23.25.06,review video tutorial daily awesome review video best daily video,Channel 5,10,2023-05-31T00:00:00.000Z,best|daily|how|vlog|review|daily|video|vlog|vlog,123013,43215,520,1550,http://example.com,False,False,False
+vid_365,23.24.05,tutorial how review new tutorial daily make awesome,Channel 13,2,2023-05-07T00:00:00.000Z,review|awesome|best|daily,182693,20694,792,1792,http://example.com,False,False,False
+vid_366,23.20.06,new review new tutorial daily awesome vlog make review,Channel 28,6,2023-06-04T00:00:00.000Z,how|vlog|make|tutorial|make|daily|make|to|video,667252,26335,472,646,http://example.com,False,False,False
+vid_367,23.15.10,best awesome awesome make to vlog video new review to video,Channel 43,14,2023-09-30T00:00:00.000Z,daily|video|best|video|make|to|how|best|new,864165,32552,992,4656,http://example.com,False,False,False
+vid_368,23.07.05,review review make daily new how video review to video video make,Channel 25,1,2023-04-14T00:00:00.000Z,awesome|awesome|awesome,734946,46047,257,712,http://example.com,False,False,False
+vid_369,23.10.11,daily vlog how make best review make new how awesome best tutorial make,Channel 35,1,2023-10-26T00:00:00.000Z,,954646,13102,274,4508,http://example.com,True,False,False
+vid_370,23.08.09,vlog awesome make make,Channel 47,11,2023-09-03T00:00:00.000Z,how|vlog|tutorial|best,439895,30392,749,537,http://example.com,False,False,False
+vid_371,23.16.07,to awesome daily to video best tutorial,Channel 39,3,2023-06-25T00:00:00.000Z,make|daily|awesome|new|daily|tutorial|new,173687,39780,19,234,http://example.com,False,False,False
+vid_372,23.22.02,tutorial tutorial how to awesome how,Channel 7,3,2023-02-08T00:00:00.000Z,new|review|awesome,179625,25467,489,2396,http://example.com,False,False,False
+vid_373,23.21.06,review new daily best vlog to daily how new vlog best best to how,Channel 38,11,2023-06-19T00:00:00.000Z,make|vlog,110264,6141,744,1504,http://example.com,False,False,False
+vid_374,23.15.09,awesome daily daily best awesome awesome to vlog make tutorial tutorial best,Channel 32,13,2023-09-04T00:00:00.000Z,review,604359,46039,489,1374,http://example.com,False,False,True
+vid_375,23.14.02,vlog make to daily best awesome best tutorial,Channel 3,5,2023-01-26T00:00:00.000Z,,697362,25225,732,4511,http://example.com,True,True,False
+vid_376,23.28.12,make vlog to best how best awesome best new to video,Channel 45,1,2023-12-21T00:00:00.000Z,tutorial|how|review|to|tutorial|daily|review|video|video,385755,12622,325,1909,http://example.com,False,False,False
+vid_377,23.08.11,make video make make awesome awesome review,Channel 39,10,2023-11-02T00:00:00.000Z,vlog|daily|video|best|best|review,71658,37315,528,915,http://example.com,False,False,False
+vid_378,23.10.02,tutorial daily daily tutorial how video vlog daily review best best make,Channel 37,6,2023-01-13T00:00:00.000Z,tutorial|best|awesome|daily|awesome|to,535140,13101,891,3958,http://example.com,False,False,False
+vid_379,23.14.11,make new new review vlog,Channel 22,7,2023-11-12T00:00:00.000Z,vlog,268531,35113,88,80,http://example.com,False,False,False
+vid_380,23.15.11,awesome tutorial tutorial,Channel 8,10,2023-11-09T00:00:00.000Z,how|how|video|to|how|awesome,390715,37099,485,2083,http://example.com,False,False,False
+vid_381,23.23.02,new daily awesome video video tutorial make awesome video awesome to best,Channel 17,12,2023-02-05T00:00:00.000Z,tutorial|make|how|vlog|best|vlog|daily,884727,29769,707,2688,http://example.com,False,False,False
+vid_382,23.24.06,daily awesome best to daily awesome tutorial best daily awesome,Channel 27,13,2023-06-22T00:00:00.000Z,awesome|to,655669,46032,349,1690,http://example.com,True,False,False
+vid_383,23.07.02,to awesome awesome awesome review vlog review tutorial to,Channel 33,11,2023-01-20T00:00:00.000Z,make|new,303138,569,83,756,http://example.com,False,False,False
+vid_384,23.02.12,daily vlog make vlog new new awesome vlog make vlog tutorial tutorial make,Channel 46,3,2023-11-17T00:00:00.000Z,to|to|how,235484,723,386,2670,http://example.com,True,False,False
+vid_385,23.18.10,best tutorial tutorial video vlog tutorial review to vlog new video,Channel 17,4,2023-09-21T00:00:00.000Z,how|how|how,380056,37371,86,3751,http://example.com,False,False,False
+vid_386,23.10.06,video new make make vlog,Channel 42,10,2023-05-22T00:00:00.000Z,video|video|vlog|video,427941,15194,306,3552,http://example.com,False,False,False
+vid_387,23.25.05,how how vlog awesome video video make how review daily,Channel 12,11,2023-05-23T00:00:00.000Z,video|to|how|best|best,729042,15271,849,467,http://example.com,False,False,False
+vid_388,23.22.04,tutorial tutorial make new review,Channel 48,10,2023-04-02T00:00:00.000Z,daily|to|awesome|tutorial|vlog,656920,20382,153,1494,http://example.com,False,False,False
+vid_389,24.14.01,how review how review daily review review review video,Channel 46,14,2023-12-20T00:00:00.000Z,,387354,32150,439,1019,http://example.com,False,False,False
+vid_390,23.24.11,vlog video new,Channel 27,12,2023-11-18T00:00:00.000Z,video|how|review|awesome,843997,33034,739,901,http://example.com,False,False,False
+vid_391,23.16.10,how new vlog daily daily to best daily how awesome tutorial,Channel 48,10,2023-10-15T00:00:00.000Z,daily|best,264456,47352,959,672,http://example.com,False,False,False
+vid_392,23.27.08,tutorial review best vlog make daily awesome,Channel 8,14,2023-08-03T00:00:00.000Z,tutorial|how|video|tutorial|vlog|tutorial|review|to|video,936709,32554,263,438,http://example.com,False,True,False
+vid_393,23.23.12,tutorial to daily how daily to to make daily,Channel 23,10,2023-12-08T00:00:00.000Z,best|best|tutorial,389026,47,976,4222,http://example.com,False,False,False
+vid_394,23.20.03,daily review make new new review vlog new review video daily review awesome daily,Channel 42,10,2023-02-20T00:00:00.000Z,awesome|daily|daily|daily,930099,43042,734,2076,http://example.com,True,False,False
+vid_395,23.25.06,video tutorial daily best,Channel 49,3,2023-06-02T00:00:00.000Z,,88566,12707,420,444,http://example.com,False,False,False
+vid_396,23.15.07,awesome make vlog tutorial,Channel 29,1,2023-07-05T00:00:00.000Z,daily|vlog|awesome|awesome,284473,41430,492,965,http://example.com,False,False,False
+vid_397,23.23.03,tutorial awesome to daily review how best make,Channel 20,8,2023-03-04T00:00:00.000Z,how|video|vlog,235750,48708,632,3790,http://example.com,False,False,False
+vid_398,23.26.07,best to how best best make new how daily to how awesome,Channel 16,13,2023-07-09T00:00:00.000Z,video|vlog|make|new|daily|how|video|video,855619,31717,992,463,http://example.com,False,False,False
+vid_399,23.10.05,new awesome to make make to tutorial to new video make vlog new review,Channel 17,10,2023-05-05T00:00:00.000Z,awesome|best|review|tutorial|tutorial|video|daily|make,600830,26026,410,2198,http://example.com,False,False,False
+vid_400,23.28.06,new best new make video video new review awesome make,Channel 16,10,2023-05-30T00:00:00.000Z,video|daily|how|daily|vlog|vlog|make|how|best,109237,34610,172,2287,http://example.com,False,False,False
+vid_401,23.14.11,review how review review daily tutorial review tutorial,Channel 19,2,2023-11-10T00:00:00.000Z,,520904,48295,3,3765,http://example.com,False,False,False
+vid_402,23.09.03,tutorial how review,Channel 8,1,2023-02-27T00:00:00.000Z,to|new|video,377620,23994,853,3176,http://example.com,False,False,False
+vid_403,24.01.01,to tutorial make review to tutorial make make new video awesome how best,Channel 38,14,2023-12-08T00:00:00.000Z,make|to|vlog|daily,298789,5177,639,4008,http://example.com,False,False,False
+vid_404,23.18.11,daily tutorial tutorial to to daily tutorial vlog how tutorial review video daily,Channel 38,8,2023-11-01T00:00:00.000Z,,88502,442,985,3504,http://example.com,False,False,False
+vid_405,23.09.07,vlog how tutorial best new review video best to review to tutorial to,Channel 29,7,2023-06-29T00:00:00.000Z,video|tutorial,487598,4161,991,912,http://example.com,False,False,False
+vid_406,23.06.07,video how make awesome daily how make vlog review review video review best make,Channel 41,7,2023-06-19T00:00:00.000Z,vlog|vlog|daily|video|tutorial|how|vlog|tutorial|best,350454,47690,471,496,http://example.com,False,False,False
+vid_407,23.20.12,new best review to,Channel 36,4,2023-11-22T00:00:00.000Z,best|best,857051,6421,109,1463,http://example.com,False,False,False
+vid_408,23.18.10,to best vlog review vlog vlog make daily make tutorial awesome best how awesome,Channel 26,11,2023-09-28T00:00:00.000Z,video|make|vlog|video|video|to|daily|daily,820945,30798,866,4253,http://example.com,False,False,False
+vid_409,23.19.03,make make video awesome video how video awesome best review,Channel 31,9,2023-02-23T00:00:00.000Z,new|review|vlog|video|to|best|make|make|best,534037,26633,36,4267,http://example.com,False,False,False
+vid_410,23.16.04,new make how make tutorial new daily video to awesome make video how,Channel 44,6,2023-04-11T00:00:00.000Z,tutorial|daily,687143,22114,991,493,http://example.com,True,False,False
+vid_411,23.23.09,daily review new new review make how new,Channel 12,2,2023-09-21T00:00:00.000Z,new|to|make|review|daily|awesome|daily|awesome,585933,266,582,1426,http://example.com,False,False,False
+vid_412,23.28.02,daily awesome how how best review best review new review,Channel 17,14,2023-02-22T00:00:00.000Z,video|review|best,214933,33449,800,1692,http://example.com,False,True,False
+vid_413,23.22.03,best new vlog tutorial tutorial how to,Channel 15,1,2023-03-01T00:00:00.000Z,daily,54175,33267,30,1793,http://example.com,False,False,False
+vid_414,23.20.04,awesome best vlog new to how best to best awesome awesome daily,Channel 9,1,2023-04-18T00:00:00.000Z,to,981213,39667,950,2723,http://example.com,False,False,False
+vid_415,23.18.01,review video video best daily,Channel 39,9,2023-01-05T00:00:00.000Z,new|how|make,149395,44684,380,658,http://example.com,False,False,False
+vid_416,23.24.04,review how video make,Channel 42,4,2023-04-13T00:00:00.000Z,review|video|review|new,51762,18076,267,4761,http://example.com,False,False,False
+vid_417,23.26.07,daily how to how tutorial to vlog new new new,Channel 48,5,2023-07-15T00:00:00.000Z,vlog,589510,45381,10,4462,http://example.com,True,False,False
+vid_418,23.05.10,new best new review new new daily best awesome how how to daily make,Channel 12,3,2023-09-19T00:00:00.000Z,tutorial|how|new|vlog|tutorial|to|review|new,428709,32756,343,549,http://example.com,False,False,False
+vid_419,24.11.01,video make new new best make,Channel 32,4,2023-12-31T00:00:00.000Z,best|review,190400,2470,839,642,http://example.com,False,False,False
+vid_420,24.04.01,best review to make,Channel 25,12,2023-12-16T00:00:00.000Z,daily|review|tutorial|video|daily|best|vlog,256539,37307,543,4350,http://example.com,False,False,False
+vid_421,23.03.03,new new tutorial best awesome awesome best daily vlog best daily to,Channel 39,8,2023-02-16T00:00:00.000Z,,13213,34753,568,207,http://example.com,False,False,False
+vid_422,24.15.01,video vlog make vlog video tutorial new awesome daily best,Channel 18,13,2023-12-21T00:00:00.000Z,to|tutorial,622655,3226,165,2497,http://example.com,False,False,False
+vid_423,23.30.11,awesome vlog new how daily review to video vlog,Channel 15,4,2023-11-07T00:00:00.000Z,,703290,14277,699,4190,http://example.com,False,False,False
+vid_424,23.27.11,make tutorial best vlog tutorial video best best how review vlog new awesome awesome,Channel 32,9,2023-11-04T00:00:00.000Z,best|daily|new|to|daily|to,159785,9591,341,1883,http://example.com,False,False,False
+vid_425,23.09.06,make tutorial vlog daily make how best,Channel 6,9,2023-05-24T00:00:00.000Z,awesome|daily|to|make,632445,4525,481,2886,http://example.com,False,False,False
+vid_426,23.07.10,vlog review make make new to tutorial tutorial make video,Channel 44,6,2023-09-26T00:00:00.000Z,,991227,22086,18,477,http://example.com,False,False,False
+vid_427,23.26.05,make new best new vlog make tutorial daily,Channel 43,2,2023-05-04T00:00:00.000Z,awesome|review|video|video|to|daily,754696,44826,627,761,http://example.com,False,False,False
+vid_428,23.02.05,review awesome review to how,Channel 35,12,2023-04-16T00:00:00.000Z,awesome|daily|awesome|awesome|make|video,33583,9786,979,189,http://example.com,False,False,False
+vid_429,23.15.06,vlog to daily how best make how daily video awesome how,Channel 34,10,2023-06-07T00:00:00.000Z,,654080,21957,183,755,http://example.com,False,False,False
+vid_430,23.31.05,awesome make how awesome awesome awesome,Channel 38,11,2023-05-27T00:00:00.000Z,video|make|daily|new|video,80944,2973,781,1446,http://example.com,False,False,False
+vid_431,23.02.06,daily new video review best new new review daily review,Channel 5,7,2023-05-25T00:00:00.000Z,new|daily|awesome|best|daily|make|make|make,23369,6796,544,4931,http://example.com,False,False,False
+vid_432,23.04.05,to awesome vlog best video make video awesome best,Channel 18,9,2023-04-30T00:00:00.000Z,daily|best|tutorial|make|tutorial,704288,13876,9,1663,http://example.com,False,False,False
+vid_433,23.09.12,video review to to,Channel 16,6,2023-11-15T00:00:00.000Z,best|new|video|vlog|to|vlog,987454,38978,591,1835,http://example.com,False,False,False
+vid_434,23.27.10,awesome new tutorial how vlog how daily to best,Channel 8,3,2023-10-02T00:00:00.000Z,to|best|review|vlog|how|video|vlog|video|tutorial,903276,32315,191,4228,http://example.com,False,False,False
+vid_435,23.05.04,awesome vlog how vlog make awesome,Channel 25,14,2023-04-02T00:00:00.000Z,video|tutorial|make|tutorial|daily|new|review|make|best,20510,17370,319,4150,http://example.com,False,False,False
+vid_436,23.02.03,tutorial review video vlog awesome vlog vlog new new review awesome review new daily,Channel 32,7,2023-02-27T00:00:00.000Z,,13120,40123,701,4060,http://example.com,False,False,False
+vid_437,24.08.01,review best review awesome awesome,Channel 26,5,2023-12-12T00:00:00.000Z,tutorial|video,625135,32823,579,4605,http://example.com,True,False,False
+vid_438,23.15.09,to to new best new make make video make to tutorial make,Channel 22,1,2023-08-17T00:00:00.000Z,vlog|how|to|tutorial|review|vlog,623863,1203,474,4765,http://example.com,False,False,False
+vid_439,23.15.05,vlog awesome tutorial tutorial review new awesome to tutorial video,Channel 31,3,2023-04-27T00:00:00.000Z,to|awesome|review,392413,4522,859,3612,http://example.com,False,False,False
+vid_440,23.13.12,tutorial best review awesome make tutorial new make video make,Channel 43,5,2023-11-14T00:00:00.000Z,vlog,268439,22676,636,1689,http://example.com,False,False,False
+vid_441,23.01.11,to tutorial how how make daily awesome review how,Channel 10,7,2023-10-06T00:00:00.000Z,to,545748,16640,426,1316,http://example.com,True,False,False
+vid_442,23.26.05,how daily awesome vlog how best tutorial daily tutorial new new review,Channel 12,3,2023-05-07T00:00:00.000Z,tutorial|make|how|review|best|daily|tutorial,540251,8993,847,4829,http://example.com,False,False,False
+vid_443,23.28.05,awesome daily video new awesome new new video how make review vlog new new,Channel 28,6,2023-05-09T00:00:00.000Z,daily|vlog|review|daily|awesome,864548,646,58,3186,http://example.com,True,False,False
+vid_444,23.20.03,vlog video tutorial daily new make daily vlog daily,Channel 6,5,2023-02-27T00:00:00.000Z,video|new,552616,3785,435,4020,http://example.com,True,False,False
+vid_445,23.07.05,new daily tutorial tutorial new to,Channel 20,13,2023-05-02T00:00:00.000Z,video|make|tutorial|new|daily|tutorial,872061,2431,96,4354,http://example.com,False,False,False
+vid_446,23.19.01,daily review awesome tutorial vlog,Channel 5,1,2023-01-01T00:00:00.000Z,vlog|awesome|to|tutorial|make|daily|video|vlog|make,125034,13035,495,1145,http://example.com,False,False,False
+vid_447,23.24.09,daily video best video how best how,Channel 23,10,2023-08-27T00:00:00.000Z,to|vlog|awesome|to|review|daily,546893,9290,786,4394,http://example.com,True,False,False
+vid_448,23.27.10,best awesome make vlog video tutorial daily to vlog,Channel 9,6,2023-10-17T00:00:00.000Z,best|how|awesome|review|new,898333,36961,660,560,http://example.com,False,False,False
+vid_449,23.05.05,awesome how make to awesome how,Channel 29,14,2023-04-06T00:00:00.000Z,how|tutorial|best|video|new|make|best|to|vlog,176885,11361,277,1912,http://example.com,False,False,False
+vid_450,23.28.05,daily daily how vlog to new vlog daily,Channel 16,8,2023-05-06T00:00:00.000Z,review|to|tutorial|review,178443,49874,264,1864,http://example.com,False,False,False
+vid_451,23.19.05,make awesome review best how review video,Channel 46,13,2023-04-28T00:00:00.000Z,,633529,38101,8,296,http://example.com,False,False,False
+vid_452,23.23.02,tutorial make new best tutorial new video,Channel 22,13,2023-02-17T00:00:00.000Z,new,835030,45666,456,2409,http://example.com,False,False,False
+vid_453,23.31.03,vlog how awesome new best review to daily to best to new,Channel 8,1,2023-03-30T00:00:00.000Z,,192848,30181,794,2636,http://example.com,False,False,False
+vid_454,23.30.08,make to vlog review video awesome new tutorial review best daily review new,Channel 20,2,2023-08-25T00:00:00.000Z,to|tutorial|review|best|vlog|video,255289,3654,272,1461,http://example.com,False,False,False
+vid_455,23.08.10,daily vlog best daily to new video best,Channel 14,14,2023-09-29T00:00:00.000Z,vlog|review|tutorial|video|best|to|to,859690,16152,939,4292,http://example.com,False,False,False
+vid_456,23.20.07,vlog awesome best make new to,Channel 39,4,2023-07-08T00:00:00.000Z,to|how|to|how|make|how|video|vlog|video,828401,7783,812,2268,http://example.com,False,False,False
+vid_457,23.06.08,awesome vlog daily,Channel 37,12,2023-07-11T00:00:00.000Z,daily|make|vlog|vlog|tutorial|awesome|awesome|tutorial,693272,28476,7,994,http://example.com,False,False,False
+vid_458,23.24.03,daily to awesome make make tutorial new awesome,Channel 34,2,2023-03-10T00:00:00.000Z,tutorial|vlog|vlog|tutorial,170446,10788,207,7,http://example.com,False,False,False
+vid_459,23.07.10,make daily awesome,Channel 11,11,2023-10-05T00:00:00.000Z,to|video,728662,12511,913,2591,http://example.com,False,False,False
+vid_460,24.01.01,awesome make tutorial new make review awesome to,Channel 40,9,2023-12-15T00:00:00.000Z,best|vlog|make|tutorial|to,63784,47187,636,2515,http://example.com,False,False,False
+vid_461,23.18.09,tutorial make to make daily awesome best vlog video daily,Channel 33,10,2023-09-04T00:00:00.000Z,to|new|new,968386,2118,122,4415,http://example.com,False,False,False
+vid_462,23.12.04,daily how make make review video video,Channel 31,8,2023-03-17T00:00:00.000Z,awesome|new|new|video|how,934432,29379,32,1417,http://example.com,True,False,False
+vid_463,23.16.06,awesome vlog best best tutorial review,Channel 44,8,2023-06-03T00:00:00.000Z,how,22274,36392,512,2316,http://example.com,False,False,False
+vid_464,23.20.06,tutorial awesome tutorial tutorial how how tutorial daily new new awesome best review video,Channel 34,4,2023-05-24T00:00:00.000Z,best|vlog|new|vlog|new|video|best|video|review,655282,25828,203,3932,http://example.com,False,False,False
+vid_465,23.05.04,tutorial how make,Channel 7,5,2023-03-27T00:00:00.000Z,how,821848,10261,517,1287,http://example.com,True,False,False
+vid_466,23.30.07,to how new review how daily video tutorial make new new review,Channel 49,4,2023-07-04T00:00:00.000Z,,218220,23351,808,2844,http://example.com,True,False,False
+vid_467,23.06.11,best video new best new tutorial best daily vlog tutorial daily,Channel 23,13,2023-10-12T00:00:00.000Z,make|vlog|daily|new,717358,11688,950,1118,http://example.com,False,False,False
+vid_468,23.23.08,video video to to best video review best,Channel 46,9,2023-08-08T00:00:00.000Z,awesome,363578,14377,516,552,http://example.com,False,False,False
+vid_469,23.04.04,make new daily how best make daily,Channel 7,13,2023-03-10T00:00:00.000Z,best,244768,29682,442,660,http://example.com,False,False,False
+vid_470,23.10.03,new daily vlog to,Channel 25,2,2023-02-16T00:00:00.000Z,daily|to|best,947551,4342,591,715,http://example.com,False,False,False
+vid_471,23.19.04,how make new review tutorial daily review review awesome how how awesome,Channel 3,13,2023-04-04T00:00:00.000Z,daily|video,437572,12012,785,3585,http://example.com,False,False,False
+vid_472,23.19.09,tutorial to make new make tutorial make awesome how make best,Channel 38,11,2023-08-26T00:00:00.000Z,to|awesome|awesome|vlog|to|awesome,693494,20294,688,3761,http://example.com,False,False,False
+vid_473,23.03.08,review daily tutorial vlog best awesome video awesome review vlog vlog best daily,Channel 20,8,2023-07-23T00:00:00.000Z,vlog|review|awesome|daily|how|tutorial,461258,15710,849,2529,http://example.com,False,False,False
+vid_474,23.22.08,to how best vlog video,Channel 34,2,2023-08-06T00:00:00.000Z,best|new|video|best,838742,13779,832,3970,http://example.com,False,False,False
+vid_475,24.05.01,vlog daily daily vlog daily best vlog vlog tutorial how,Channel 49,1,2023-12-07T00:00:00.000Z,,868190,29328,338,3407,http://example.com,False,False,False
+vid_476,23.25.02,daily tutorial review review,Channel 44,10,2023-02-08T00:00:00.000Z,new|video|vlog|awesome|make|awesome,144435,24333,437,1458,http://example.com,True,False,False
+vid_477,23.06.05,to make best best awesome video vlog,Channel 44,3,2023-04-10T00:00:00.000Z,review|make,479365,27620,444,3267,http://example.com,False,False,False
+vid_478,23.20.10,video make review review awesome tutorial video tutorial to review daily make,Channel 30,9,2023-10-16T00:00:00.000Z,new|to,963067,6973,135,854,http://example.com,True,False,False
+vid_479,23.12.09,review daily how best make video daily review review review new,Channel 17,12,2023-09-11T00:00:00.000Z,how,818060,7848,386,4760,http://example.com,True,False,False
+vid_480,23.18.08,best new review awesome awesome new how to new,Channel 10,3,2023-08-10T00:00:00.000Z,how|daily|daily|new|to|review|review|daily,505136,45177,24,3537,http://example.com,False,True,False
+vid_481,24.09.01,daily how make to best daily best,Channel 35,9,2023-12-23T00:00:00.000Z,,70672,12253,505,1897,http://example.com,False,False,False
+vid_482,23.26.01,to tutorial how how tutorial daily,Channel 20,7,2023-01-23T00:00:00.000Z,tutorial|daily|new|tutorial|awesome|to,571534,27949,324,272,http://example.com,False,False,False
+vid_483,23.06.10,to review best how how vlog make,Channel 18,13,2023-09-07T00:00:00.000Z,review,929665,1855,694,4087,http://example.com,False,False,False
+vid_484,23.30.01,video make video to make how,Channel 45,10,2023-01-10T00:00:00.000Z,awesome|vlog|make,495209,46720,679,1272,http://example.com,False,False,False
+vid_485,23.18.09,best video review make how,Channel 44,1,2023-09-03T00:00:00.000Z,review|how|vlog|video|vlog|to|make,614398,16776,978,4374,http://example.com,False,False,False
+vid_486,23.06.12,how how how vlog best tutorial tutorial make,Channel 27,10,2023-11-21T00:00:00.000Z,how|make,486654,36890,337,4019,http://example.com,True,False,False
+vid_487,23.04.05,how vlog how vlog how video video to,Channel 49,5,2023-04-10T00:00:00.000Z,awesome|best|awesome|to|make|video,265954,12790,689,815,http://example.com,False,False,False
+vid_488,23.08.11,best review to make daily how,Channel 36,9,2023-10-17T00:00:00.000Z,vlog|daily|make|best|daily|new|review|daily|awesome,716220,48468,884,4371,http://example.com,False,False,False
+vid_489,23.13.07,video daily vlog daily best how tutorial daily tutorial vlog to tutorial to video,Channel 23,12,2023-06-29T00:00:00.000Z,how|daily|new|make|review|vlog|review,209271,42866,94,922,http://example.com,False,False,False
+vid_490,23.06.09,how daily video video new awesome best to review new awesome review best,Channel 32,3,2023-08-11T00:00:00.000Z,video|video|to,596976,1519,544,4737,http://example.com,False,False,False
+vid_491,23.05.10,how best daily video awesome awesome review,Channel 10,9,2023-09-07T00:00:00.000Z,vlog|tutorial|new|how|make|daily|make|tutorial|to,852980,23967,622,4600,http://example.com,True,False,False
+vid_492,23.19.06,awesome to daily best video daily new how tutorial daily review new video review,Channel 11,5,2023-05-27T00:00:00.000Z,review|review,718723,45182,145,4867,http://example.com,False,False,False
+vid_493,23.20.04,tutorial tutorial daily review awesome make video awesome video make how make vlog,Channel 38,9,2023-04-06T00:00:00.000Z,,274306,34356,892,1264,http://example.com,False,False,False
+vid_494,23.08.10,daily new awesome new vlog make daily to make make vlog how,Channel 6,10,2023-09-14T00:00:00.000Z,how|best|tutorial|review|to|to,875290,17273,952,3724,http://example.com,False,False,False
+vid_495,23.23.11,review review vlog video,Channel 41,6,2023-11-21T00:00:00.000Z,review,598823,46884,230,2787,http://example.com,False,False,False
+vid_496,23.17.01,vlog video new vlog daily vlog daily vlog video how best video,Channel 47,9,2023-01-04T00:00:00.000Z,video|how|how|how|make|video|make|best|review,401435,26158,783,2722,http://example.com,False,False,False
+vid_497,23.11.02,tutorial how new,Channel 34,7,2023-01-16T00:00:00.000Z,tutorial|review|new|video|review|new|review|to|video,596152,31543,847,4223,http://example.com,False,False,False
+vid_498,23.21.10,review video vlog video to how best new,Channel 36,7,2023-10-07T00:00:00.000Z,video|make|daily|tutorial|vlog|tutorial,659981,42618,494,2550,http://example.com,False,False,False
+vid_499,23.29.12,daily to video new video daily make,Channel 37,8,2023-12-02T00:00:00.000Z,to|best,119371,12941,37,2949,http://example.com,True,False,False
