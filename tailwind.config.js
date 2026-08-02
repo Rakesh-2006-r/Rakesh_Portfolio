@@ -22,17 +22,17 @@ export default {
           950: '#111b54',
         },
         slate: {
-          300: '#F3F4F6', // Primary Text (Cool Off-White)
-          400: '#9CA3AF', // Secondary Text (Muted Gray)
-          500: '#9CA3AF', // Secondary Text (Muted Gray)
-          600: '#4B5563', 
+          300: '#F8FAFC', // Primary Text (Bright White)
+          400: '#94A3B8', // Secondary Text (Slate Text)
+          500: '#94A3B8', // Secondary Text (Slate Text)
+          600: '#475569', 
         },
-        darkBg: '#0A0C10',
+        darkBg: '#0F172A', // Deep Slate
         lightBg: '#fafafa',
-        darkCard: 'rgba(18, 22, 31, 0.75)', // #12161F with glass effect
+        darkCard: 'rgba(30, 41, 59, 0.75)', // Slate Container (#1E293B) with glass effect
         lightCard: 'rgba(255, 255, 255, 0.65)',
-        accentPurple: '#06B6D4', // Secondary Accent (Cyan)
-        accentBlue: '#3B82F6', // Primary Accent (Electric Blue)
+        accentPurple: '#14B8A6', // Secondary Accent (Teal)
+        accentBlue: '#10B981', // Primary Accent (Emerald Green)
       },
       fontFamily: {
         sans: ['Outfit', 'Inter', 'sans-serif'],
