@@ -21,12 +21,18 @@ export default {
           900: '#1e318c',
           950: '#111b54',
         },
+        slate: {
+          300: '#f8fafc', // Almost white for maximum visibility
+          400: '#f1f5f9', // Very bright gray
+          500: '#e2e8f0', // Bright gray
+          600: '#cbd5e1', // Light gray
+        },
         darkBg: '#050505',
         lightBg: '#fafafa',
         darkCard: 'rgba(10, 10, 12, 0.45)',
         lightCard: 'rgba(255, 255, 255, 0.65)',
-        accentPurple: '#a855f7',
-        accentBlue: '#3b82f6',
+        accentPurple: '#10b981', // Emerald Green
+        accentBlue: '#06b6d4', // Cyan Blue
       },
       fontFamily: {
         sans: ['Outfit', 'Inter', 'sans-serif'],
