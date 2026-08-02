@@ -260,7 +260,7 @@ export const portfolioData = {
       date: "Jul-Oct 2025",
       id: "NPTEL25CS147S1058208182",
       link: "#",
-      image: "/iot_cert.png"
+      image: "/iot_cert.pdf"
     }
   ]
 };
