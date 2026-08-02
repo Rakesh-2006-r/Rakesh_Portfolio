@@ -252,7 +252,7 @@ export const portfolioData = {
       date: "Jan-Apr 2026",
       id: "NPTEL26CS84S356202520",
       link: "#",
-      image: "/python_cert.png"
+      image: "/python_cert.pdf"
     },
     {
       title: "Introduction to Internet of Things (78%)",

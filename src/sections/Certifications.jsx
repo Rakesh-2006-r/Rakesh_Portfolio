@@ -84,8 +84,12 @@ export default function Certifications() {
 
               {/* Certificate Display */}
               {activeCert.image ? (
-                <div className="relative w-full flex items-center justify-center bg-slate-900 rounded-2xl overflow-hidden p-2">
-                  <img src={activeCert.image} alt={activeCert.title} className="max-w-full max-h-[65vh] object-contain rounded-xl" />
+                <div className="relative w-full h-[65vh] flex items-center justify-center bg-slate-900 rounded-2xl overflow-hidden p-2">
+                  {activeCert.image.endsWith('.pdf') ? (
+                    <iframe src={activeCert.image} className="w-full h-full rounded-xl border-none" title={activeCert.title} />
+                  ) : (
+                    <img src={activeCert.image} alt={activeCert.title} className="max-w-full max-h-full object-contain rounded-xl" />
+                  )}
                 </div>
               ) : (
                 <div className="border-2 border-dashed border-accentBlue/30 rounded-2xl p-6 md:p-8 flex flex-col items-center justify-center text-center relative bg-gradient-to-br from-[#0d0d15] to-slate-950">
