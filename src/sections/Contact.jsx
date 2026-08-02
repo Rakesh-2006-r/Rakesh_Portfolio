@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import emailjs from '@emailjs/browser';
+
 import { FaEnvelope, FaPaperPlane, FaUser, FaClipboardList, FaSpinner, FaCheckCircle, FaExclamationCircle } from 'react-icons/fa';
 import { portfolioData } from '../data/portfolioData';
 
@@ -42,42 +42,40 @@ export default function Contact() {
     }
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     if (!validate()) return;
 
     setLoading(true);
 
-    const serviceId = import.meta.env.VITE_EMAILJS_SERVICE_ID;
-    const templateId = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
-    const publicKey = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
+    try {
+      const response = await fetch(`https://formsubmit.co/ajax/${portfolioData.personalInfo.email}`, {
+        method: "POST",
+        headers: { 
+            'Content-Type': 'application/json',
+            'Accept': 'application/json'
+        },
+        body: JSON.stringify({
+            name: formData.name,
+            email: formData.email,
+            subject: formData.subject,
+            message: formData.message,
+            _subject: `New Portfolio Message: ${formData.subject}`
+        })
+      });
 
-    if (!serviceId || !templateId || !publicKey) {
-      // Mocking dispatch if keys are not defined in .env
-      console.warn("EmailJS credentials are not set in .env. Falling back to developer simulation.");
-      setTimeout(() => {
-        setLoading(false);
-        showToast("success", "Message simulated successfully! Configure environment keys to receive emails.");
-        setFormData({ name: '', email: '', subject: '', message: '' });
-      }, 1500);
-      return;
-    }
-
-    emailjs.sendForm(serviceId, templateId, formRef.current, {
-      publicKey: publicKey,
-    })
-    .then(
-      () => {
+      if (response.ok) {
         setLoading(false);
         showToast("success", "Your message was sent successfully! I will reply shortly.");
         setFormData({ name: '', email: '', subject: '', message: '' });
-      },
-      (error) => {
-        setLoading(false);
-        console.error("EmailJS sending error: ", error);
-        showToast("error", "Failed to dispatch message. Please try emailing me directly.");
+      } else {
+        throw new Error("Failed to send");
       }
-    );
+    } catch (error) {
+      setLoading(false);
+      console.error("FormSubmit error: ", error);
+      showToast("error", "Failed to dispatch message. Please try emailing me directly.");
+    }
   };
 
   return (

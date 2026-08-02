@@ -39,37 +39,37 @@ export const portfolioData = {
     ],
     bio: "Passionate Software Engineer and Full Stack Developer. Currently pursuing Data Science studies, focusing on building scalable, performant web applications and solving complex algorithmic challenges. I love blending clean UI/UX with solid engineering principles to create elegant digital experiences.",
     shortBio: "Building high-performance applications with beautiful, functional design. Focused on MERN Stack, Algorithms, and Data Science.",
-    email: "rakeesh.com@gmail.com",
+    email: "pittalarakesh2004@gmail.com",
     emailSecondary: "pittalarakesh067@gmail.com",
     resumeUrl: "#", // Mock download link (triggers auto-generated resume layout)
     socials: [
       {
         name: "GitHub",
-        url: "https://github.com", // User can replace with actual links
+        url: "https://github.com/Rakesh-2006-r",
         icon: FaGithub,
         color: "hover:text-white hover:bg-slate-950"
       },
       {
         name: "LinkedIn",
-        url: "https://linkedin.com",
+        url: "https://www.linkedin.com/in/pittala-rakesh-2594b9291/",
         icon: FaLinkedin,
         color: "hover:text-blue-500 hover:bg-blue-950/30"
       },
       {
         name: "LeetCode",
-        url: "https://leetcode.com",
+        url: "https://leetcode.com/u/Pittala_Rakesh/",
         icon: SiLeetcode,
         color: "hover:text-yellow-500 hover:bg-yellow-950/30"
       },
       {
         name: "CodeChef",
-        url: "https://codechef.com",
+        url: "https://www.codechef.com/users/rakesh_04_20",
         icon: SiCodechef,
         color: "hover:text-orange-500 hover:bg-orange-950/30"
       },
       {
         name: "Email",
-        url: "mailto:rakeesh.com@gmail.com",
+        url: "mailto:pittalarakesh2004@gmail.com",
         icon: FaEnvelope,
         color: "hover:text-red-500 hover:bg-red-950/30"
       }
