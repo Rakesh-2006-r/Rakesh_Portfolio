@@ -29,12 +29,10 @@ export default function Experience() {
             const isLeft = index % 2 === 0;
 
             return (
-              <div key={index} className="relative flex flex-col md:flex-row items-stretch">
-                {/* Desktop layout: Left spacer or Card */}
-                <div className={`w-full md:w-1/2 flex justify-start md:justify-end pr-0 md:pr-12 pl-12 md:pl-0 ${
-                  isLeft ? 'order-1 md:order-1' : 'order-1 md:order-2 md:opacity-0 md:pointer-events-none md:absolute'
-                }`}>
-                  {isLeft && (
+              <div key={index} className="relative flex flex-col md:flex-row items-center justify-between w-full">
+                {/* Left Side */}
+                {isLeft ? (
+                  <div className="w-full md:w-[45%] flex justify-start md:justify-end pl-12 md:pl-0 pr-0">
                     <motion.div
                       initial={{ opacity: 0, x: -40 }}
                       whileInView={{ opacity: 1, x: 0 }}
@@ -63,21 +61,21 @@ export default function Experience() {
                         ))}
                       </div>
                     </motion.div>
-                  )}
-                </div>
+                  </div>
+                ) : (
+                  <div className="hidden md:block md:w-[45%]" />
+                )}
 
                 {/* Timeline Center Point Icon Indicator */}
-                <div className="absolute left-4 md:left-1/2 top-6 transform -translate-x-1/2 z-20">
+                <div className="absolute left-4 md:left-1/2 top-6 md:top-1/2 transform -translate-x-1/2 md:-translate-y-1/2 z-20">
                   <div className="w-8 h-8 rounded-full bg-slate-950 border-2 border-accentBlue flex items-center justify-center text-accentBlue shadow-glow-blue">
                     <FaBriefcase className="w-3.5 h-3.5" />
                   </div>
                 </div>
 
-                {/* Desktop layout: Right Card or Spacer */}
-                <div className={`w-full md:w-1/2 flex justify-start pl-12 pr-0 md:pl-12 ${
-                  isLeft ? 'order-1 md:order-2 md:opacity-0 md:pointer-events-none md:absolute' : 'order-1 md:order-2'
-                }`}>
-                  {!isLeft && (
+                {/* Right Side */}
+                {!isLeft ? (
+                  <div className="w-full md:w-[45%] flex justify-start pl-12 md:pl-0 pr-0 mt-0">
                     <motion.div
                       initial={{ opacity: 0, x: 40 }}
                       whileInView={{ opacity: 1, x: 0 }}
@@ -106,8 +104,10 @@ export default function Experience() {
                         ))}
                       </div>
                     </motion.div>
-                  )}
-                </div>
+                  </div>
+                ) : (
+                  <div className="hidden md:block md:w-[45%]" />
+                )}
               </div>
             );
           })}
