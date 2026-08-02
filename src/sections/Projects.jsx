@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { portfolioData } from '../data/portfolioData';
-import { FaGithub, FaExternalLinkAlt, FaBook, FaCheckCircle, FaAddressBook, FaGamepad } from 'react-icons/fa';
+import { FaGithub, FaExternalLinkAlt, FaBook, FaCheckCircle, FaLeaf, FaCar } from 'react-icons/fa';
 
 // Custom 3D Tilt Project Card Component
 function ProjectCard({ project }) {
@@ -82,25 +82,25 @@ function ProjectCard({ project }) {
           <div className="w-full h-full bg-gradient-to-br from-emerald-950/80 to-slate-900 flex items-center justify-center relative overflow-hidden group-hover:scale-105 transition-transform duration-500">
             <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:16px_16px]" />
             <div className="relative z-10 flex flex-col items-center text-center p-4">
-              <FaAddressBook className="w-12 h-12 text-emerald-400 mb-2" />
-              <span className="text-xs font-mono tracking-widest text-slate-400">PHONE BOOK GRAPH</span>
+              <FaLeaf className="w-12 h-12 text-emerald-400 mb-2" />
+              <span className="text-xs font-mono tracking-widest text-slate-400">AGRICONNECT AI</span>
               <div className="mt-3 flex gap-2">
-                <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Linked List</span>
-                <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Queue</span>
+                <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Gemini AI</span>
+                <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Mandi Engine</span>
               </div>
             </div>
           </div>
         );
       case 4:
         return (
-          <div className="w-full h-full bg-gradient-to-br from-red-950/80 to-slate-900 flex items-center justify-center relative overflow-hidden group-hover:scale-105 transition-transform duration-500">
+          <div className="w-full h-full bg-gradient-to-br from-orange-950/80 to-slate-900 flex items-center justify-center relative overflow-hidden group-hover:scale-105 transition-transform duration-500">
             <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:16px_16px]" />
             <div className="relative z-10 flex flex-col items-center text-center p-4">
-              <FaGamepad className="w-12 h-12 text-red-500 mb-2" />
-              <span className="text-xs font-mono tracking-widest text-slate-400">TIC TAC TOE GAME</span>
+              <FaCar className="w-12 h-12 text-orange-500 mb-2" />
+              <span className="text-xs font-mono tracking-widest text-slate-400">CAR RENTAL WEB APP</span>
               <div className="mt-3 flex gap-2">
-                <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Minimax AI</span>
-                <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Confetti</span>
+                <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Live Tracking</span>
+                <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">MERN Stack</span>
               </div>
             </div>
           </div>
@@ -185,14 +185,14 @@ export default function Projects() {
   const [filter, setFilter] = useState("All");
 
   // Filtering criteria tags
-  const filterTabs = ["All", "MERN Stack", "React", "Java", "JavaScript"];
+  const filterTabs = ["All", "MERN Stack", "React", "Gemini AI", "Socket.io"];
 
   const filteredProjects = allProjects.filter((proj) => {
     if (filter === "All") return true;
     if (filter === "MERN Stack") return proj.tags.includes("MongoDB") && proj.tags.includes("Express");
     if (filter === "React") return proj.tags.includes("React");
-    if (filter === "Java") return proj.tags.includes("Java");
-    if (filter === "JavaScript") return proj.tags.includes("JavaScript");
+    if (filter === "Gemini AI") return proj.tags.includes("Gemini AI");
+    if (filter === "Socket.io") return proj.tags.includes("Socket.io");
     return true;
   });
 
