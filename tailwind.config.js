@@ -23,9 +23,9 @@ export default {
         },
         slate: {
           300: '#F9FAFB', // Primary Text (Crisp Off-White)
-          400: '#9CA3AF', // Secondary Text (Muted Gray)
-          500: '#9CA3AF', // Secondary Text (Muted Gray)
-          600: '#6B7280', 
+          400: '#E2E8F0', // Brightened Secondary Text (Very Light Gray)
+          500: '#E2E8F0', // Brightened Secondary Text (Very Light Gray)
+          600: '#9CA3AF', // Muted Gray
         },
         darkBg: '#0B0F17', // Deep Navy-Black
         lightBg: '#fafafa',

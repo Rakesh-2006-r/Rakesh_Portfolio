@@ -105,7 +105,7 @@ export default function About() {
           <h3 className="text-xl md:text-2xl font-bold font-sans text-slate-800 dark:text-slate-100">
             A developer pushing boundaries with data & clean interfaces.
           </h3>
-          <p className="text-sm md:text-base text-slate-600 dark:text-slate-400 leading-relaxed">
+          <p className="text-sm md:text-base text-slate-600 dark:text-white leading-relaxed">
             {bio}
           </p>
 
@@ -153,7 +153,7 @@ export default function About() {
             className="p-6 rounded-2xl glass border border-white/5 flex flex-col items-center justify-center text-center shadow-lg hover:border-accentBlue/20 hover:scale-102 transition-all duration-300"
           >
             <AnimatedCounter value={stat.target} suffix={stat.suffix} delay={i * 0.15} />
-            <span className="text-xs md:text-sm text-slate-500 dark:text-slate-400 font-semibold mt-2 uppercase tracking-wide">
+            <span className="text-xs md:text-sm text-slate-500 dark:text-white font-semibold mt-2 uppercase tracking-wide">
               {stat.label}
             </span>
           </motion.div>

@@ -50,7 +50,7 @@ export default function Experience() {
                           <span>{exp.duration}</span>
                         </div>
                       </div>
-                      <p className="text-xs md:text-sm text-slate-500 dark:text-slate-400 leading-relaxed">
+                      <p className="text-xs md:text-sm text-slate-500 dark:text-white leading-relaxed">
                         {exp.description}
                       </p>
                       <div className="flex flex-wrap gap-1.5 mt-5">
@@ -93,7 +93,7 @@ export default function Experience() {
                           <span>{exp.duration}</span>
                         </div>
                       </div>
-                      <p className="text-xs md:text-sm text-slate-500 dark:text-slate-400 leading-relaxed">
+                      <p className="text-xs md:text-sm text-slate-500 dark:text-white leading-relaxed">
                         {exp.description}
                       </p>
                       <div className="flex flex-wrap gap-1.5 mt-5">

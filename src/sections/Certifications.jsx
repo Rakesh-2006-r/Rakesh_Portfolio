@@ -44,7 +44,7 @@ export default function Certifications() {
 
             {/* Bottom info */}
             <div className="flex items-center justify-between mt-8 pt-4 border-t border-white/5">
-              <span className="text-[10px] font-mono text-slate-500 dark:text-slate-400 font-bold">
+              <span className="text-[10px] font-mono text-slate-500 dark:text-white font-bold">
                 YEAR: {cert.date}
               </span>
               <span className="text-[10px] text-accentPurple font-semibold flex items-center gap-1 group-hover:underline">

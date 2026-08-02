@@ -134,7 +134,7 @@ function ProjectCard({ project }) {
           {project.title}
         </h3>
         
-        <p className="text-xs md:text-sm text-slate-500 dark:text-slate-400 mt-3 leading-relaxed flex-grow">
+        <p className="text-xs md:text-sm text-slate-700 dark:text-white mt-3 leading-relaxed flex-grow">
           {project.description}
         </p>
 

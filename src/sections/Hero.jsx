@@ -98,7 +98,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.4 }}
-          className="max-w-xl text-sm md:text-lg text-slate-600 dark:text-slate-400 mt-2 leading-relaxed"
+          className="max-w-xl text-sm md:text-lg text-slate-600 dark:text-white mt-2 leading-relaxed"
         >
           {shortBio}
         </motion.p>
@@ -147,7 +147,7 @@ export default function Hero() {
                 href={social.url}
                 target="_blank"
                 rel="noreferrer"
-                className={`p-3 rounded-full border border-slate-200 dark:border-slate-800 text-slate-600 dark:text-slate-400 transition-all duration-350 ${social.color} hover:scale-110 shadow-sm`}
+                className={`p-3 rounded-full border border-slate-200 dark:border-slate-800 text-slate-600 dark:text-white transition-all duration-350 ${social.color} hover:scale-110 shadow-sm`}
                 title={social.name}
               >
                 <Icon className="w-5 h-5" />

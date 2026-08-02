@@ -95,7 +95,7 @@ export default function Contact() {
             <h3 className="text-lg md:text-xl font-bold font-sans text-slate-900 dark:text-white mb-4">
               Let's build something epic
             </h3>
-            <p className="text-xs md:text-sm text-slate-500 dark:text-slate-400 leading-relaxed mb-8">
+            <p className="text-xs md:text-sm text-slate-500 dark:text-white leading-relaxed mb-8">
               I am open to software development intern opportunities, full stack project contracts, or data analysis collaborations. Drop me a line!
             </p>
           </div>

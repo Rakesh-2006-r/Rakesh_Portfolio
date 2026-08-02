@@ -38,7 +38,7 @@ export default function Education() {
                     <h3 className="text-base md:text-lg font-bold font-sans text-slate-900 dark:text-white group-hover:text-accentBlue transition-colors duration-300">
                       {edu.institution}
                     </h3>
-                    <p className="text-xs text-slate-500 dark:text-slate-400 font-semibold mt-0.5">
+                    <p className="text-xs text-slate-500 dark:text-white font-semibold mt-0.5">
                       {edu.degree}
                     </p>
                   </div>
@@ -46,7 +46,7 @@ export default function Education() {
               </div>
 
               {/* Course details */}
-              <p className="text-xs md:text-sm text-slate-500 dark:text-slate-400 leading-relaxed mb-6">
+              <p className="text-xs md:text-sm text-slate-500 dark:text-white leading-relaxed mb-6">
                 {edu.description}
               </p>
             </div>
