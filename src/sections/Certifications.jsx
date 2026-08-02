@@ -82,34 +82,40 @@ export default function Certifications() {
                 <FaTimes className="w-4 h-4" />
               </button>
 
-              {/* Certificate Template Graphic Design */}
-              <div className="border-2 border-dashed border-accentBlue/30 rounded-2xl p-6 md:p-8 flex flex-col items-center justify-center text-center relative bg-gradient-to-br from-[#0d0d15] to-slate-950">
-                <FaAward className="w-16 h-16 text-yellow-500 mb-4 animate-pulse" />
-                <span className="text-[10px] font-mono tracking-widest text-accentBlue font-bold uppercase">
-                  CERTIFICATE OF COMPLETION
-                </span>
-                
-                <h3 className="text-xl md:text-3xl font-black font-sans text-white mt-4 max-w-md">
-                  {activeCert.title}
-                </h3>
-                
-                <p className="text-xs text-slate-400 mt-2 max-w-sm">
-                  This document verifies that Pittala Rakesh has successfully satisfied all academic syllabus and challenge projects required for completion.
-                </p>
+              {/* Certificate Display */}
+              {activeCert.image ? (
+                <div className="relative w-full flex items-center justify-center bg-slate-900 rounded-2xl overflow-hidden p-2">
+                  <img src={activeCert.image} alt={activeCert.title} className="max-w-full max-h-[65vh] object-contain rounded-xl" />
+                </div>
+              ) : (
+                <div className="border-2 border-dashed border-accentBlue/30 rounded-2xl p-6 md:p-8 flex flex-col items-center justify-center text-center relative bg-gradient-to-br from-[#0d0d15] to-slate-950">
+                  <FaAward className="w-16 h-16 text-yellow-500 mb-4 animate-pulse" />
+                  <span className="text-[10px] font-mono tracking-widest text-accentBlue font-bold uppercase">
+                    CERTIFICATE OF COMPLETION
+                  </span>
+                  
+                  <h3 className="text-xl md:text-3xl font-black font-sans text-white mt-4 max-w-md">
+                    {activeCert.title}
+                  </h3>
+                  
+                  <p className="text-xs text-slate-400 mt-2 max-w-sm">
+                    This document verifies that Pittala Rakesh has successfully satisfied all academic syllabus and challenge projects required for completion.
+                  </p>
 
-                <div className="w-full border-t border-white/5 my-6" />
+                  <div className="w-full border-t border-white/5 my-6" />
 
-                <div className="grid grid-cols-2 gap-4 w-full text-left">
-                  <div>
-                    <h4 className="text-[9px] font-mono text-slate-500 uppercase">ISSUING AUTHORITY</h4>
-                    <p className="text-xs text-white font-bold font-sans mt-0.5">{activeCert.issuer}</p>
-                  </div>
-                  <div>
-                    <h4 className="text-[9px] font-mono text-slate-500 uppercase">VERIFICATION ID</h4>
-                    <p className="text-xs text-accentPurple font-mono font-bold mt-0.5">{activeCert.id}</p>
+                  <div className="grid grid-cols-2 gap-4 w-full text-left">
+                    <div>
+                      <h4 className="text-[9px] font-mono text-slate-500 uppercase">ISSUING AUTHORITY</h4>
+                      <p className="text-xs text-white font-bold font-sans mt-0.5">{activeCert.issuer}</p>
+                    </div>
+                    <div>
+                      <h4 className="text-[9px] font-mono text-slate-500 uppercase">VERIFICATION ID</h4>
+                      <p className="text-xs text-accentPurple font-mono font-bold mt-0.5">{activeCert.id}</p>
+                    </div>
                   </div>
                 </div>
-              </div>
+              )}
 
               {/* Close Bottom link */}
               <div className="flex justify-end gap-3 mt-6">

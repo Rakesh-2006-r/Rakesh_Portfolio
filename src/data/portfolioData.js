@@ -251,14 +251,16 @@ export const portfolioData = {
       issuer: "NPTEL",
       date: "Jan-Apr 2026",
       id: "NPTEL26CS84S356202520",
-      link: "#"
+      link: "#",
+      image: "/python_cert.png"
     },
     {
       title: "Introduction to Internet of Things (78%)",
       issuer: "NPTEL",
       date: "Jul-Oct 2025",
       id: "NPTEL25CS147S1058208182",
-      link: "#"
+      link: "#",
+      image: "/iot_cert.png"
     }
   ]
 };
