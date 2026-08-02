@@ -154,25 +154,25 @@ export const portfolioData = {
     },
     {
       id: 3,
-      title: "Phone Book Application",
-      description: "A lightweight Java application centered on data structure efficiency, leveraging custom Linked Lists and Queue implementations for contact searching, sorting, and storage optimization.",
-      longDescription: "A pure computer science project demonstrating object-oriented programming patterns and low-level data structures. Built from scratch without collection wrappers, illustrating memory optimizations, custom search trees, sorting nodes, and dynamic buffer streams for fast lookup operations.",
-      tags: ["Java", "Linked Lists", "Queues", "Algorithms"],
-      image: "phone_book",
-      github: "https://github.com",
-      demo: "https://demo.com",
-      highlights: ["Java Core", "Linked List", "Queue Data Structure", "Binary Search", "File I/O"]
+      title: "AgriConnect",
+      description: "A scalable multi-role agricultural platform featuring custom dashboards, a real-time Mandi Price Engine, and intelligent Google Gemini AI modules.",
+      longDescription: "Architected a scalable platform featuring 5 custom React.js dashboards with strict role-based access control. Engineered a real-time Mandi Price Engine integrating Government APIs with server-side caching. Integrated Google Gemini AI to deploy 7 intelligent modules, including image-based crop disease detection, price forecasting, and a voice assistant. Built a robust Node.js backend with JWT authentication and escrow-based payments.",
+      tags: ["React", "Node.js", "MongoDB", "Express", "Gemini AI"],
+      image: "agri_connect",
+      github: "https://github.com/Rakesh-2006-r",
+      demo: "#",
+      highlights: ["MERN Stack", "Gemini AI Integration", "Role-Based Access", "Mandi Price Engine", "Escrow Payments"]
     },
     {
       id: 4,
-      title: "Interactive Tic Tac Toe",
-      description: "A modern web game utilizing HTML, CSS, and Vanilla JavaScript with smooth transitions, artificial intelligence opponents using the minimax algorithm, and dynamic confetti outcomes.",
-      longDescription: "An elegant, interactive browser game created to demonstrate DOM manipulation expertise and game theory algorithms. Includes smooth canvas transitions, a responsive minimalist design suitable for mobile play, and customized CSS layout effects.",
-      tags: ["HTML5", "CSS3", "JavaScript", "Minimax AI"],
-      image: "tic_tac_toe",
-      github: "https://github.com",
-      demo: "https://demo.com",
-      highlights: ["HTML & CSS", "JavaScript ES6", "Minimax AI Bot", "Confetti Triggers", "Local Scoreboard"]
+      title: "Car Rental Web Application",
+      description: "A comprehensive full-stack car rental platform with dynamic vehicle filtering, real-time availability tracking, and automated booking workflows.",
+      longDescription: "Designed a highly responsive, cross-device React.js user interface that integrates seamlessly with a secure Node.js/Express.js backend for state management. Architected scalable MongoDB and Mongoose data models to efficiently handle concurrent user profiles, vehicle inventory, and transaction records. Deployed the application to production via Vercel for high availability.",
+      tags: ["React", "Node.js", "MongoDB", "Express", "Vercel"],
+      image: "car_rental",
+      github: "https://github.com/Rakesh-2006-r",
+      demo: "#",
+      highlights: ["MERN Stack", "Dynamic Filtering", "Real-time Availability", "Automated Booking", "Vercel Deployment"]
     }
   ],
   
