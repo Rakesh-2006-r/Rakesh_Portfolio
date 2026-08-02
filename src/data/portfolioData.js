@@ -247,31 +247,17 @@ export const portfolioData = {
   
   certifications: [
     {
-      title: "MERN Full Stack Developer",
-      issuer: "Udemy Academy",
-      date: "2025",
-      id: "MERN-82947194",
+      title: "The Joy of Computing using Python (92%)",
+      issuer: "NPTEL",
+      date: "Jan-Apr 2026",
+      id: "NPTEL26CS84S356202520",
       link: "#"
     },
     {
-      title: "Machine Learning & Data Science Boot Camp",
-      issuer: "Kaggle & Coursera",
-      date: "2024",
-      id: "MLDS-48291048",
-      link: "#"
-    },
-    {
-      title: "Java Data Structures and Algorithms Mastery",
-      issuer: "Infosys Springboard",
-      date: "2024",
-      id: "INFY-DSA-7492",
-      link: "#"
-    },
-    {
-      title: "Postman API Fundamental Student Expert",
-      issuer: "Postman",
-      date: "2024",
-      id: "PST-EXP-2024",
+      title: "Introduction to Internet of Things (78%)",
+      issuer: "NPTEL",
+      date: "Jul-Oct 2025",
+      id: "NPTEL25CS147S1058208182",
       link: "#"
     }
   ]
