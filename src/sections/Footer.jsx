@@ -34,7 +34,7 @@ export default function Footer() {
               href={social.url}
               target="_blank"
               rel="noreferrer"
-              className={`p-3 rounded-full border border-slate-200 dark:border-slate-800 text-slate-500 dark:text-white transition-all duration-300 ${social.color} hover:scale-105 shadow-sm`}
+              className={`p-3 rounded-full border border-slate-200 dark:border-slate-800 text-white dark:text-white transition-all duration-300 ${social.color} hover:scale-105 shadow-sm`}
               title={social.name}
             >
               <Icon className="w-4 h-4" />
@@ -44,7 +44,7 @@ export default function Footer() {
       </div>
 
       {/* Copyright */}
-      <p className="text-xs text-slate-500 dark:text-slate-500 font-semibold tracking-wider font-sans select-none flex items-center justify-center gap-1.5">
+      <p className="text-xs text-white dark:text-white font-semibold tracking-wider font-sans select-none flex items-center justify-center gap-1.5">
         &copy; {new Date().getFullYear()} {name.toUpperCase()}. Built with 
         <FaHeart className="w-3 h-3 text-red-500 animate-pulse" /> 
         using React & Tailwind.

@@ -38,7 +38,7 @@ export default function Education() {
                     <h3 className="text-base md:text-lg font-bold font-sans text-slate-900 dark:text-white group-hover:text-accentBlue transition-colors duration-300">
                       {edu.institution}
                     </h3>
-                    <p className="text-xs text-slate-500 dark:text-white font-semibold mt-0.5">
+                    <p className="text-xs text-white dark:text-white font-semibold mt-0.5">
                       {edu.degree}
                     </p>
                   </div>
@@ -46,14 +46,14 @@ export default function Education() {
               </div>
 
               {/* Course details */}
-              <p className="text-xs md:text-sm text-slate-500 dark:text-white leading-relaxed mb-6">
+              <p className="text-xs md:text-sm text-white dark:text-white leading-relaxed mb-6">
                 {edu.description}
               </p>
             </div>
 
             {/* Card Footer Grade and Duration */}
             <div className="flex flex-wrap items-center justify-between gap-4 pt-4 border-t border-white/5">
-              <div className="flex items-center gap-1.5 text-xs text-slate-400 font-mono font-semibold">
+              <div className="flex items-center gap-1.5 text-xs text-white font-mono font-semibold">
                 <FaCalendarAlt />
                 <span>{edu.duration}</span>
               </div>

@@ -54,7 +54,7 @@ function ProjectCard({ project }) {
             <div className="absolute w-28 h-28 rounded-full bg-accentPurple/20 blur-xl top-1/4 left-1/4" />
             <div className="relative z-10 flex flex-col items-center text-center p-4">
               <FaCheckCircle className="w-12 h-12 text-accentPurple mb-2 animate-bounce" />
-              <span className="text-xs font-mono tracking-widest text-slate-400">INCENTIVE SYSTEM</span>
+              <span className="text-xs font-mono tracking-widest text-white">INCENTIVE SYSTEM</span>
               <div className="mt-3 flex gap-2">
                 <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Leaderboard</span>
                 <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Real-time</span>
@@ -69,7 +69,7 @@ function ProjectCard({ project }) {
             <div className="absolute w-28 h-28 rounded-full bg-accentBlue/20 blur-xl bottom-1/4 right-1/4" />
             <div className="relative z-10 flex flex-col items-center text-center p-4">
               <FaBook className="w-12 h-12 text-accentBlue mb-2 animate-pulse" />
-              <span className="text-xs font-mono tracking-widest text-slate-400">E-LIBRARY MANAGEMENT</span>
+              <span className="text-xs font-mono tracking-widest text-white">E-LIBRARY MANAGEMENT</span>
               <div className="mt-3 flex gap-2">
                 <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">PDF Storage</span>
                 <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Auth Gate</span>
@@ -83,7 +83,7 @@ function ProjectCard({ project }) {
             <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:16px_16px]" />
             <div className="relative z-10 flex flex-col items-center text-center p-4">
               <FaLeaf className="w-12 h-12 text-emerald-400 mb-2" />
-              <span className="text-xs font-mono tracking-widest text-slate-400">AGRICONNECT AI</span>
+              <span className="text-xs font-mono tracking-widest text-white">AGRICONNECT AI</span>
               <div className="mt-3 flex gap-2">
                 <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Gemini AI</span>
                 <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Mandi Engine</span>
@@ -97,7 +97,7 @@ function ProjectCard({ project }) {
             <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:16px_16px]" />
             <div className="relative z-10 flex flex-col items-center text-center p-4">
               <FaCar className="w-12 h-12 text-orange-500 mb-2" />
-              <span className="text-xs font-mono tracking-widest text-slate-400">CAR RENTAL WEB APP</span>
+              <span className="text-xs font-mono tracking-widest text-white">CAR RENTAL WEB APP</span>
               <div className="mt-3 flex gap-2">
                 <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">Live Tracking</span>
                 <span className="text-[10px] bg-white/10 px-2 py-0.5 rounded text-white font-mono">MERN Stack</span>

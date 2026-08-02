@@ -95,7 +95,7 @@ export default function Contact() {
             <h3 className="text-lg md:text-xl font-bold font-sans text-slate-900 dark:text-white mb-4">
               Let's build something epic
             </h3>
-            <p className="text-xs md:text-sm text-slate-500 dark:text-white leading-relaxed mb-8">
+            <p className="text-xs md:text-sm text-white dark:text-white leading-relaxed mb-8">
               I am open to software development intern opportunities, full stack project contracts, or data analysis collaborations. Drop me a line!
             </p>
           </div>
@@ -106,7 +106,7 @@ export default function Contact() {
                 <FaEnvelope className="w-4 h-4" />
               </div>
               <div className="flex flex-col space-y-1">
-                <h4 className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">EMAIL ADDRESSES</h4>
+                <h4 className="text-[10px] font-bold text-white uppercase tracking-widest">EMAIL ADDRESSES</h4>
                 <a href={`mailto:${portfolioData.personalInfo.email}`} className="text-xs md:text-sm font-semibold text-slate-900 dark:text-slate-200 hover:text-accentBlue transition-colors break-all">
                   {portfolioData.personalInfo.email}
                 </a>
@@ -128,7 +128,7 @@ export default function Contact() {
             {/* Name Input */}
             <div className="flex flex-col space-y-1.5">
               <label htmlFor="name" className="text-xs font-semibold text-slate-650 dark:text-slate-300 flex items-center gap-1.5">
-                <FaUser className="text-slate-450 dark:text-slate-500 w-3 h-3" /> Name
+                <FaUser className="text-slate-450 dark:text-white w-3 h-3" /> Name
               </label>
               <input
                 type="text"
@@ -147,7 +147,7 @@ export default function Contact() {
             {/* Email Input */}
             <div className="flex flex-col space-y-1.5">
               <label htmlFor="email" className="text-xs font-semibold text-slate-650 dark:text-slate-300 flex items-center gap-1.5">
-                <FaEnvelope className="text-slate-450 dark:text-slate-500 w-3 h-3" /> Email Address
+                <FaEnvelope className="text-slate-450 dark:text-white w-3 h-3" /> Email Address
               </label>
               <input
                 type="email"
@@ -166,7 +166,7 @@ export default function Contact() {
             {/* Subject Input */}
             <div className="flex flex-col space-y-1.5">
               <label htmlFor="subject" className="text-xs font-semibold text-slate-655 dark:text-slate-300 flex items-center gap-1.5">
-                <FaClipboardList className="text-slate-450 dark:text-slate-500 w-3 h-3" /> Subject
+                <FaClipboardList className="text-slate-450 dark:text-white w-3 h-3" /> Subject
               </label>
               <input
                 type="text"

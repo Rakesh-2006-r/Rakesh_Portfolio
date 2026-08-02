@@ -37,14 +37,14 @@ export default function Certifications() {
               <h3 className="text-sm md:text-base font-bold font-sans text-slate-950 dark:text-slate-100 group-hover:text-accentBlue transition-colors duration-300 line-clamp-2">
                 {cert.title}
               </h3>
-              <p className="text-xs text-slate-400 font-semibold mt-2.5">
+              <p className="text-xs text-white font-semibold mt-2.5">
                 Issued by: <span className="text-slate-600 dark:text-slate-300 font-bold">{cert.issuer}</span>
               </p>
             </div>
 
             {/* Bottom info */}
             <div className="flex items-center justify-between mt-8 pt-4 border-t border-white/5">
-              <span className="text-[10px] font-mono text-slate-500 dark:text-white font-bold">
+              <span className="text-[10px] font-mono text-white dark:text-white font-bold">
                 YEAR: {cert.date}
               </span>
               <span className="text-[10px] text-accentPurple font-semibold flex items-center gap-1 group-hover:underline">
@@ -76,7 +76,7 @@ export default function Certifications() {
               {/* Modal Close Button */}
               <button
                 onClick={() => setActiveCert(null)}
-                className="absolute top-5 right-5 p-2 rounded-full bg-white/5 border border-white/10 text-slate-400 hover:text-white transition-colors"
+                className="absolute top-5 right-5 p-2 rounded-full bg-white/5 border border-white/10 text-white hover:text-white transition-colors"
                 aria-label="Close Modal"
               >
                 <FaTimes className="w-4 h-4" />
@@ -102,7 +102,7 @@ export default function Certifications() {
                     {activeCert.title}
                   </h3>
                   
-                  <p className="text-xs text-slate-400 mt-2 max-w-sm">
+                  <p className="text-xs text-white mt-2 max-w-sm">
                     This document verifies that Pittala Rakesh has successfully satisfied all academic syllabus and challenge projects required for completion.
                   </p>
 
@@ -110,11 +110,11 @@ export default function Certifications() {
 
                   <div className="grid grid-cols-2 gap-4 w-full text-left">
                     <div>
-                      <h4 className="text-[9px] font-mono text-slate-500 uppercase">ISSUING AUTHORITY</h4>
+                      <h4 className="text-[9px] font-mono text-white uppercase">ISSUING AUTHORITY</h4>
                       <p className="text-xs text-white font-bold font-sans mt-0.5">{activeCert.issuer}</p>
                     </div>
                     <div>
-                      <h4 className="text-[9px] font-mono text-slate-500 uppercase">VERIFICATION ID</h4>
+                      <h4 className="text-[9px] font-mono text-white uppercase">VERIFICATION ID</h4>
                       <p className="text-xs text-accentPurple font-mono font-bold mt-0.5">{activeCert.id}</p>
                     </div>
                   </div>
@@ -125,7 +125,7 @@ export default function Certifications() {
               <div className="flex justify-end gap-3 mt-6">
                 <button
                   onClick={() => setActiveCert(null)}
-                  className="px-5 py-2.5 rounded-xl font-semibold text-xs border border-white/10 text-slate-400 hover:text-white transition-colors"
+                  className="px-5 py-2.5 rounded-xl font-semibold text-xs border border-white/10 text-white hover:text-white transition-colors"
                 >
                   Close
                 </button>

@@ -69,13 +69,13 @@ export default function Achievements() {
             </div>
 
             <div>
-              <span className="text-[10px] font-mono font-bold tracking-widest text-slate-400 uppercase">
+              <span className="text-[10px] font-mono font-bold tracking-widest text-white uppercase">
                 {ach.platform}
               </span>
               <h3 className="text-base md:text-lg font-bold font-sans text-slate-900 dark:text-white mt-1 group-hover:text-accentBlue transition-colors duration-300">
                 {ach.title}
               </h3>
-              <p className="text-xs md:text-sm text-slate-500 dark:text-white mt-2.5 leading-relaxed">
+              <p className="text-xs md:text-sm text-white dark:text-white mt-2.5 leading-relaxed">
                 {ach.description}
               </p>
             </div>

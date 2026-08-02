@@ -45,12 +45,12 @@ export default function Experience() {
                           <h3 className="text-lg font-bold font-sans text-slate-900 dark:text-white">{exp.role}</h3>
                           <p className="text-xs font-semibold text-accentBlue mt-0.5">{exp.company}</p>
                         </div>
-                        <div className="flex items-center gap-1.5 text-xs text-slate-400 font-semibold font-mono">
+                        <div className="flex items-center gap-1.5 text-xs text-white font-semibold font-mono">
                           <FaCalendarAlt />
                           <span>{exp.duration}</span>
                         </div>
                       </div>
-                      <p className="text-xs md:text-sm text-slate-500 dark:text-white leading-relaxed">
+                      <p className="text-xs md:text-sm text-white dark:text-white leading-relaxed">
                         {exp.description}
                       </p>
                       <div className="flex flex-wrap gap-1.5 mt-5">
@@ -88,12 +88,12 @@ export default function Experience() {
                           <h3 className="text-lg font-bold font-sans text-slate-900 dark:text-white">{exp.role}</h3>
                           <p className="text-xs font-semibold text-accentPurple mt-0.5">{exp.company}</p>
                         </div>
-                        <div className="flex items-center gap-1.5 text-xs text-slate-400 font-semibold font-mono">
+                        <div className="flex items-center gap-1.5 text-xs text-white font-semibold font-mono">
                           <FaCalendarAlt />
                           <span>{exp.duration}</span>
                         </div>
                       </div>
-                      <p className="text-xs md:text-sm text-slate-500 dark:text-white leading-relaxed">
+                      <p className="text-xs md:text-sm text-white dark:text-white leading-relaxed">
                         {exp.description}
                       </p>
                       <div className="flex flex-wrap gap-1.5 mt-5">

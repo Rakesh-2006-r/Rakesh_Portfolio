@@ -119,7 +119,7 @@ export default function About() {
                     <Icon className="w-4 h-4" />
                   </div>
                   <div>
-                    <h4 className="text-xs font-semibold text-slate-400 uppercase tracking-wider">{fact.label}</h4>
+                    <h4 className="text-xs font-semibold text-white uppercase tracking-wider">{fact.label}</h4>
                     <p className="text-sm text-slate-800 dark:text-slate-200 font-medium mt-0.5">{fact.value}</p>
                   </div>
                 </div>
@@ -153,7 +153,7 @@ export default function About() {
             className="p-6 rounded-2xl glass border border-white/5 flex flex-col items-center justify-center text-center shadow-lg hover:border-accentBlue/20 hover:scale-102 transition-all duration-300"
           >
             <AnimatedCounter value={stat.target} suffix={stat.suffix} delay={i * 0.15} />
-            <span className="text-xs md:text-sm text-slate-500 dark:text-white font-semibold mt-2 uppercase tracking-wide">
+            <span className="text-xs md:text-sm text-white dark:text-white font-semibold mt-2 uppercase tracking-wide">
               {stat.label}
             </span>
           </motion.div>

@@ -165,8 +165,8 @@ export default function Hero() {
         className="absolute bottom-8 flex flex-col items-center cursor-pointer select-none"
         onClick={handleScrollDown}
       >
-        <span className="text-xs tracking-widest text-slate-500 uppercase font-semibold mb-2">Scroll Down</span>
-        <FaChevronDown className="w-4 h-4 text-slate-500 animate-bounce" />
+        <span className="text-xs tracking-widest text-white uppercase font-semibold mb-2">Scroll Down</span>
+        <FaChevronDown className="w-4 h-4 text-white animate-bounce" />
       </motion.div>
     </section>
   );

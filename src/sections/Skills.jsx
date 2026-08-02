@@ -64,7 +64,7 @@ export default function Skills() {
                         <Icon className="w-4 h-4 text-accentBlue group-hover:text-accentPurple transition-colors duration-300" />
                         <span className="text-sm font-semibold tracking-wide">{item.name}</span>
                       </div>
-                      <span className="text-xs font-mono font-bold text-slate-400 dark:text-slate-500">{item.level}%</span>
+                      <span className="text-xs font-mono font-bold text-white dark:text-white">{item.level}%</span>
                     </div>
                     {/* Animated Progress Bar */}
                     <div className="w-full h-2 bg-slate-200 dark:bg-slate-900 rounded-full overflow-hidden relative border border-black/5 dark:border-white/5">
