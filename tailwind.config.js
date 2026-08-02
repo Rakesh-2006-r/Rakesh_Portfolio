@@ -22,17 +22,17 @@ export default {
           950: '#111b54',
         },
         slate: {
-          300: '#F8FAFC', // Primary Text (Bright White)
-          400: '#94A3B8', // Secondary Text (Slate Text)
-          500: '#94A3B8', // Secondary Text (Slate Text)
-          600: '#475569', 
+          300: '#FFFFFF', // Primary Text (Pure White)
+          400: '#A1A1AA', // Secondary Text (Zinc Muted Text)
+          500: '#A1A1AA', // Secondary Text (Zinc Muted Text)
+          600: '#71717A', // Darker Zinc
         },
-        darkBg: '#0F172A', // Deep Slate
+        darkBg: '#050505', // Pure Deep Dark
         lightBg: '#fafafa',
-        darkCard: 'rgba(30, 41, 59, 0.75)', // Slate Container (#1E293B) with glass effect
+        darkCard: 'rgba(255, 255, 255, 0.04)', // Semi-transparent frost
         lightCard: 'rgba(255, 255, 255, 0.65)',
-        accentPurple: '#14B8A6', // Secondary Accent (Teal)
-        accentBlue: '#10B981', // Primary Accent (Emerald Green)
+        accentPurple: '#EC4899', // Secondary Accent (Soft Magenta)
+        accentBlue: '#8B5CF6', // Primary Accent (Vibrant Purple / Violet)
       },
       fontFamily: {
         sans: ['Outfit', 'Inter', 'sans-serif'],
