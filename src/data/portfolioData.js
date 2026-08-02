@@ -137,7 +137,7 @@ export const portfolioData = {
       longDescription: "This decentralization-inspired system helps administrators incentivize high-fidelity work within groups. Users submit evidence of task completion, which administrators verify. It uses Socket.io for instantaneous leaderboard updates, custom MongoDB schemas to evaluate engagement coefficients, and an interactive frontend showcasing animated progress reports.",
       tags: ["MongoDB", "Express", "React", "Node.js", "Socket.io"],
       image: "pow_system", // Name mapping for rendering mock visual card
-      github: "https://github.com",
+      github: "https://github.com/Rakesh-2006-r/Work-Submission",
       demo: "https://demo.com",
       highlights: ["MERN Stack", "Admin/User Dashboard", "Leaderboard", "Task Approval", "Real-time Updates"]
     },
@@ -148,7 +148,7 @@ export const portfolioData = {
       longDescription: "Designed with modern state managers and file-upload validation. Integrates cloud-storage features for PDF document indexing. Features a clean catalog interface with search-as-you-type options, reading progress trackers, and detailed reviews sections for interactive learning communities.",
       tags: ["React", "Node.js", "MongoDB", "Express", "Multer"],
       image: "e_library",
-      github: "https://github.com",
+      github: "https://github.com/Rakesh-2006-r/E-library",
       demo: "https://demo.com",
       highlights: ["React & Node", "MongoDB Database", "Book Upload", "PDF Storage", "User Authentication"]
     },
@@ -159,7 +159,7 @@ export const portfolioData = {
       longDescription: "Architected a scalable platform featuring 5 custom React.js dashboards with strict role-based access control. Engineered a real-time Mandi Price Engine integrating Government APIs with server-side caching. Integrated Google Gemini AI to deploy 7 intelligent modules, including image-based crop disease detection, price forecasting, and a voice assistant. Built a robust Node.js backend with JWT authentication and escrow-based payments.",
       tags: ["React", "Node.js", "MongoDB", "Express", "Gemini AI"],
       image: "agri_connect",
-      github: "https://github.com/Rakesh-2006-r",
+      github: "https://github.com/Rakesh-2006-r/Agri_Connect",
       demo: "#",
       highlights: ["MERN Stack", "Gemini AI Integration", "Role-Based Access", "Mandi Price Engine", "Escrow Payments"]
     },
@@ -170,8 +170,8 @@ export const portfolioData = {
       longDescription: "Designed a highly responsive, cross-device React.js user interface that integrates seamlessly with a secure Node.js/Express.js backend for state management. Architected scalable MongoDB and Mongoose data models to efficiently handle concurrent user profiles, vehicle inventory, and transaction records. Deployed the application to production via Vercel for high availability.",
       tags: ["React", "Node.js", "MongoDB", "Express", "Vercel"],
       image: "car_rental",
-      github: "https://github.com/Rakesh-2006-r",
-      demo: "#",
+      github: "https://github.com/Rakesh-2006-r/CarRental",
+      demo: "https://car-rental-rho-lake.vercel.app/",
       highlights: ["MERN Stack", "Dynamic Filtering", "Real-time Availability", "Automated Booking", "Vercel Deployment"]
     }
   ],
